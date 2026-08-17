@@ -1,0 +1,1201 @@
+fecha,region,vendedor,producto,categoria,unidades,precio_unitario,descuento
+2024-01-02,Oeste,Pedro Diaz,Auriculares,Accesorios,5,130,0.0
+2024-01-02,Sur,Luis Gomez,Monitor 27,Tecnologia,14,320,0.0
+2024-01-02,Centro,Carlos Vega,Silla Ergo,Mobiliario,1,280,0.0
+2024-01-02,Centro,Pedro Diaz,Laptop Pro,Tecnologia,10,1200,0.0
+2024-01-03,Sur,Elena Mora,Auriculares,Accesorios,2,130,0.1
+2024-01-03,Oeste,Javier Sanz,Escritorio,Mobiliario,2,450,0.0
+2024-01-03,Norte,Carlos Vega,Silla Ergo,Mobiliario,4,280,0.0
+2024-01-03,Norte,Sofia Leon,Silla Ergo,Mobiliario,1,280,0.0
+2024-01-03,Centro,Carlos Vega,Laptop Pro,Tecnologia,1,1200,0.1
+2024-01-03,Centro,Pedro Diaz,Escritorio,Mobiliario,2,450,0.0
+2024-01-04,Norte,Sofia Leon,Monitor 27,Tecnologia,3,320,0.1
+2024-01-04,Oeste,Pedro Diaz,Escritorio,Mobiliario,10,450,0.05
+2024-01-04,Centro,Marta Ruiz,Tablet Air,Tecnologia,2,640,0.15
+2024-01-05,Norte,Sofia Leon,Auriculares,Accesorios,11,130,0.0
+2024-01-05,Sur,Pedro Diaz,Teclado Mec,Accesorios,12,95,0.05
+2024-01-06,Oeste,Pedro Diaz,Laptop Pro,Tecnologia,8,1200,0.0
+2024-01-06,Centro,Ana Torres,Laptop Pro,Tecnologia,13,1200,0.0
+2024-01-06,Oeste,Marta Ruiz,Laptop Pro,Tecnologia,1,1200,0.0
+2024-01-06,Oeste,Carlos Vega,Auriculares,Accesorios,2,130,0.1
+2024-01-06,Norte,Sofia Leon,Monitor 27,Tecnologia,8,320,0.05
+2024-01-07,Centro,Sofia Leon,Auriculares,Accesorios,5,130,0.1
+2024-01-07,Sur,Marta Ruiz,Auriculares,Accesorios,4,130,0.1
+2024-01-08,Sur,Elena Mora,Teclado Mec,Accesorios,3,95,0.0
+2024-01-08,Centro,Sofia Leon,Raton Ergo,Accesorios,2,45,0.0
+2024-01-08,Centro,Javier Sanz,Teclado Mec,Accesorios,3,95,0.0
+2024-01-09,Oeste,Sofia Leon,Escritorio,Mobiliario,9,450,0.0
+2024-01-09,Centro,Sofia Leon,Teclado Mec,Accesorios,1,95,0.0
+2024-01-09,Este,Carlos Vega,Laptop Pro,Tecnologia,12,1200,0.0
+2024-01-09,Norte,Ana Torres,Silla Ergo,Mobiliario,11,280,0.15
+2024-01-09,Centro,Marta Ruiz,Auriculares,Accesorios,11,130,0.0
+2024-01-10,Este,Carlos Vega,Laptop Pro,Tecnologia,10,1200,0.1
+2024-01-10,Centro,Ana Torres,Silla Ergo,Mobiliario,5,280,0.0
+2024-01-10,Norte,Elena Mora,Silla Ergo,Mobiliario,10,280,0.0
+2024-01-11,Sur,Javier Sanz,Laptop Pro,Tecnologia,5,1200,
+2024-01-12,Sur,Sofia Leon,Silla Ergo,Mobiliario,11,280,0.0
+2024-01-12,Norte,Elena Mora,Auriculares,Accesorios,4,130,0.0
+2024-01-12,Este,Marta Ruiz,Monitor 27,Tecnologia,10,320,0.15
+2024-01-13,Sur,Pedro Diaz,Teclado Mec,Accesorios,8,95,0.0
+2024-01-13,Sur,Marta Ruiz,Escritorio,Mobiliario,7,450,0.1
+2024-01-14,Centro,Luis Gomez,Silla Ergo,Mobiliario,10,280,0.05
+2024-01-14,Centro,Marta Ruiz,Laptop Pro,Tecnologia,12,1200,0.1
+2024-01-14,Norte,Pedro Diaz,Escritorio,Mobiliario,5,450,0.0
+2024-01-14,Oeste,Luis Gomez,Silla Ergo,Mobiliario,11,280,0.0
+2024-01-15,Norte,Carlos Vega,Escritorio,Mobiliario,2,450,0.0
+2024-01-16,Centro,Pedro Diaz,Auriculares,Accesorios,13,130,0.0
+2024-01-16,Centro,Pedro Diaz,Auriculares,Accesorios,10,130,0.1
+2024-01-16,Oeste,Marta Ruiz,Escritorio,Mobiliario,4,450,0.0
+2024-01-16,Oeste,Carlos Vega,Raton Ergo,Accesorios,7,45,0.0
+2024-01-16,Oeste,Luis Gomez,Tablet Air,Tecnologia,3,640,0.1
+2024-01-16,Oeste,Sofia Leon,Raton Ergo,Accesorios,10,45,0.15
+2024-01-17,Sur,Pedro Diaz,Silla Ergo,Mobiliario,5,280,0.05
+2024-01-17,Este,Ana Torres,Teclado Mec,Accesorios,12,95,0.05
+2024-01-17,Sur,Pedro Diaz,Escritorio,Mobiliario,13,450,0.1
+2024-01-17,Centro,Ana Torres,Tablet Air,Tecnologia,8,640,0.05
+2024-01-17,Norte,Luis Gomez,Silla Ergo,Mobiliario,1,280,0.0
+2024-01-19,Este,Ana Torres,Tablet Air,Tecnologia,5,640,0.15
+2024-01-19,Este,Marta Ruiz,Monitor 27,Tecnologia,9,320,0.15
+2024-01-19,Centro,Luis Gomez,Tablet Air,Tecnologia,6,640,0.15
+2024-01-20,Centro,Pedro Diaz,Auriculares,Accesorios,5,130,0.0
+2024-01-20,Sur,Marta Ruiz,Raton Ergo,Accesorios,9,45,0.0
+2024-01-20,Norte,Elena Mora,Raton Ergo,Accesorios,11,45,0.05
+2024-01-20,Oeste,Sofia Leon,Auriculares,Accesorios,13,130,0.1
+2024-01-21,Este,Elena Mora,Silla Ergo,Mobiliario,14,280,0.0
+2024-01-21,Este,Pedro Diaz,Silla Ergo,Mobiliario,14,280,0.1
+2024-01-21,Norte,Sofia Leon,Silla Ergo,Mobiliario,8,280,0.0
+2024-01-21,Sur,Ana Torres,Auriculares,Accesorios,13,130,0.0
+2024-01-22,Este,Pedro Diaz,Teclado Mec,Accesorios,7,95,0.0
+2024-01-22,Este,Javier Sanz,Teclado Mec,Accesorios,13,95,0.1
+2024-01-23,Centro,Sofia Leon,Silla Ergo,Mobiliario,5,280,0.1
+2024-01-24,Norte,Pedro Diaz,Silla Ergo,Mobiliario,2,280,0.0
+2024-01-24,Centro,Luis Gomez,Auriculares,Accesorios,1,130,0.1
+2024-01-25,Centro,Javier Sanz,Auriculares,Accesorios,9,130,0.1
+2024-01-25,Oeste,Ana Torres,Teclado Mec,Accesorios,12,95,
+2024-01-25,Sur,Marta Ruiz,Auriculares,Accesorios,7,130,0.1
+2024-01-25,Este,Luis Gomez,Laptop Pro,Tecnologia,8,1200,0.1
+2024-01-26,Sur,Luis Gomez,Escritorio,Mobiliario,14,450,0.0
+2024-01-27,Centro,Javier Sanz,Escritorio,Mobiliario,14,450,0.0
+2024-01-27,Centro,Sofia Leon,Silla Ergo,Mobiliario,9,280,0.0
+2024-01-28,Sur,Pedro Diaz,Tablet Air,Tecnologia,3,640,
+2024-01-29,Oeste,,Raton Ergo,Accesorios,14,45,0.1
+2024-01-29,Sur,Ana Torres,Monitor 27,Tecnologia,4,320,0.05
+2024-01-29,Norte,Ana Torres,Raton Ergo,Accesorios,3,45,0.0
+2024-01-30,Oeste,Pedro Diaz,Laptop Pro,Tecnologia,7,1200,
+2024-01-30,Centro,Elena Mora,Auriculares,Accesorios,14,130,0.1
+2024-01-30,Sur,Marta Ruiz,Tablet Air,Tecnologia,2,640,0.1
+2024-01-31,Norte,Elena Mora,Escritorio,Mobiliario,5,450,0.0
+2024-01-31,Centro,Ana Torres,Silla Ergo,Mobiliario,6,280,0.0
+2024-01-31,Norte,Elena Mora,Auriculares,Accesorios,10,130,0.05
+2024-01-31,Oeste,Pedro Diaz,Teclado Mec,Accesorios,5,95,0.15
+2024-01-31,Centro,Sofia Leon,Monitor 27,Tecnologia,12,320,0.0
+2024-02-01,Sur,Pedro Diaz,Monitor 27,Tecnologia,5,320,0.15
+2024-02-01,Oeste,Marta Ruiz,Raton Ergo,Accesorios,4,45,0.15
+2024-02-01,Sur,Sofia Leon,Escritorio,Mobiliario,9,450,0.15
+2024-02-02,Centro,Pedro Diaz,Teclado Mec,Accesorios,9,95,0.0
+2024-02-02,Centro,Marta Ruiz,Raton Ergo,Accesorios,5,45,0.0
+2024-02-02,Sur,Javier Sanz,Auriculares,Accesorios,2,130,0.1
+2024-02-02,Centro,Pedro Diaz,Silla Ergo,Mobiliario,9,280,0.1
+2024-02-02,Sur,Marta Ruiz,Monitor 27,Tecnologia,6,320,0.0
+2024-02-03,Centro,Ana Torres,Monitor 27,Tecnologia,1,320,
+2024-02-03,Este,Javier Sanz,Auriculares,Accesorios,14,130,0.1
+2024-02-03,Norte,Pedro Diaz,Tablet Air,Tecnologia,13,640,0.0
+2024-02-03,Sur,Elena Mora,Escritorio,Mobiliario,8,450,0.15
+2024-02-03,Norte,Ana Torres,Raton Ergo,Accesorios,11,45,
+2024-02-04,Sur,Carlos Vega,Auriculares,Accesorios,2,130,0.15
+2024-02-04,Centro,Marta Ruiz,Monitor 27,Tecnologia,8,320,0.0
+2024-02-04,Este,Carlos Vega,Monitor 27,Tecnologia,7,320,0.05
+2024-02-04,Centro,Sofia Leon,Raton Ergo,Accesorios,13,45,0.05
+2024-02-04,Norte,Ana Torres,Tablet Air,Tecnologia,10,640,0.1
+2024-02-04,Sur,Ana Torres,Laptop Pro,Tecnologia,6,1200,0.0
+2024-02-04,Este,Ana Torres,Raton Ergo,Accesorios,12,45,
+2024-02-04,Centro,Carlos Vega,Monitor 27,Tecnologia,13,320,0.0
+2024-02-05,Centro,Elena Mora,Silla Ergo,Mobiliario,3,280,0.0
+2024-02-05,Oeste,Luis Gomez,Laptop Pro,Tecnologia,13,1200,0.0
+2024-02-05,Sur,Ana Torres,Escritorio,Mobiliario,7,450,0.05
+2024-02-06,Oeste,Luis Gomez,Tablet Air,Tecnologia,7,640,0.05
+2024-02-06,Norte,Luis Gomez,Teclado Mec,Accesorios,3,95,0.05
+2024-02-07,Oeste,Ana Torres,Auriculares,Accesorios,10,130,0.1
+2024-02-07,Norte,Pedro Diaz,Silla Ergo,Mobiliario,7,280,0.0
+2024-02-08,Norte,Pedro Diaz,Silla Ergo,Mobiliario,5,280,0.0
+2024-02-08,Norte,Luis Gomez,Laptop Pro,Tecnologia,6,1200,0.1
+2024-02-08,Este,Sofia Leon,Monitor 27,Tecnologia,7,320,0.05
+2024-02-08,Centro,Luis Gomez,Monitor 27,Tecnologia,8,320,0.0
+2024-02-08,Norte,Pedro Diaz,Auriculares,Accesorios,8,130,0.1
+2024-02-09,Este,Sofia Leon,Silla Ergo,Mobiliario,14,280,
+2024-02-09,Sur,Javier Sanz,Teclado Mec,Accesorios,3,95,0.0
+2024-02-09,Norte,Ana Torres,Raton Ergo,Accesorios,9,45,0.15
+2024-02-09,Sur,Elena Mora,Monitor 27,Tecnologia,5,320,0.0
+2024-02-10,Norte,Luis Gomez,Silla Ergo,Mobiliario,13,280,0.0
+2024-02-11,Oeste,Marta Ruiz,Silla Ergo,Mobiliario,4,280,0.0
+2024-02-11,Norte,Ana Torres,Laptop Pro,Tecnologia,2,1200,0.05
+2024-02-11,Norte,Pedro Diaz,Tablet Air,Tecnologia,14,640,0.05
+2024-02-12,Sur,Marta Ruiz,Silla Ergo,Mobiliario,14,280,0.05
+2024-02-12,Oeste,Pedro Diaz,Laptop Pro,Tecnologia,9,1200,0.1
+2024-02-12,Oeste,Luis Gomez,Teclado Mec,Accesorios,12,95,0.0
+2024-02-12,Norte,Javier Sanz,Silla Ergo,Mobiliario,4,280,0.05
+2024-02-13,Este,Marta Ruiz,Laptop Pro,Tecnologia,8,1200,
+2024-02-13,Oeste,Marta Ruiz,Tablet Air,Tecnologia,7,640,0.15
+2024-02-13,Norte,Sofia Leon,Monitor 27,Tecnologia,11,320,0.15
+2024-02-13,Norte,Ana Torres,Auriculares,Accesorios,4,130,0.0
+2024-02-13,Sur,Elena Mora,Laptop Pro,Tecnologia,8,1200,0.0
+2024-02-13,Este,Marta Ruiz,Tablet Air,Tecnologia,5,640,0.0
+2024-02-13,Oeste,Luis Gomez,Tablet Air,Tecnologia,1,640,0.0
+2024-02-13,Norte,Sofia Leon,Laptop Pro,Tecnologia,9,1200,0.05
+2024-02-14,Centro,Marta Ruiz,Escritorio,Mobiliario,6,450,0.05
+2024-02-14,Oeste,Sofia Leon,Laptop Pro,Tecnologia,10,1200,0.0
+2024-02-14,Este,Luis Gomez,Escritorio,Mobiliario,2,450,0.15
+2024-02-14,Norte,Sofia Leon,Auriculares,Accesorios,3,130,0.0
+2024-02-14,Oeste,Marta Ruiz,Escritorio,Mobiliario,8,450,0.0
+2024-02-15,Centro,Luis Gomez,Escritorio,Mobiliario,5,450,0.0
+2024-02-15,Centro,Ana Torres,Auriculares,Accesorios,1,130,0.0
+2024-02-16,Sur,Pedro Diaz,Teclado Mec,Accesorios,2,95,0.0
+2024-02-16,Centro,Carlos Vega,Silla Ergo,Mobiliario,5,280,0.15
+2024-02-16,Sur,Carlos Vega,Monitor 27,Tecnologia,2,320,0.0
+2024-02-16,Norte,Luis Gomez,Teclado Mec,Accesorios,6,95,0.0
+2024-02-16,Norte,Luis Gomez,Tablet Air,Tecnologia,4,640,0.1
+2024-02-17,Oeste,Marta Ruiz,Monitor 27,Tecnologia,5,320,0.0
+2024-02-17,Centro,Pedro Diaz,Laptop Pro,Tecnologia,12,1200,0.05
+2024-02-17,Este,Carlos Vega,Silla Ergo,Mobiliario,13,280,0.05
+2024-02-17,Este,Ana Torres,Silla Ergo,Mobiliario,9,280,0.1
+2024-02-18,Centro,Sofia Leon,Teclado Mec,Accesorios,6,95,0.0
+2024-02-18,Centro,Elena Mora,Tablet Air,Tecnologia,8,640,0.0
+2024-02-18,Oeste,,Silla Ergo,Mobiliario,1,280,0.05
+2024-02-19,Centro,Elena Mora,Monitor 27,Tecnologia,14,320,0.15
+2024-02-19,Este,Elena Mora,Monitor 27,Tecnologia,6,320,0.0
+2024-02-19,Este,Luis Gomez,Silla Ergo,Mobiliario,5,280,0.1
+2024-02-20,Centro,Carlos Vega,Raton Ergo,Accesorios,13,45,0.0
+2024-02-20,Sur,Javier Sanz,Laptop Pro,Tecnologia,5,1200,0.0
+2024-02-21,Sur,Carlos Vega,Teclado Mec,Accesorios,5,95,0.0
+2024-02-21,Norte,Marta Ruiz,Teclado Mec,Accesorios,4,95,0.15
+2024-02-21,Centro,Ana Torres,Laptop Pro,Tecnologia,7,1200,0.0
+2024-02-21,Norte,Luis Gomez,Escritorio,Mobiliario,2,450,0.1
+2024-02-21,Sur,Elena Mora,Silla Ergo,Mobiliario,4,280,0.15
+2024-02-21,Centro,Elena Mora,Escritorio,Mobiliario,5,450,0.0
+2024-02-21,Norte,Javier Sanz,Teclado Mec,Accesorios,8,95,0.0
+2024-02-21,Norte,Elena Mora,Teclado Mec,Accesorios,10,95,0.0
+2024-02-21,Centro,Carlos Vega,Escritorio,Mobiliario,2,450,0.1
+2024-02-22,Norte,Ana Torres,Teclado Mec,Accesorios,9,95,0.0
+2024-02-22,Sur,Sofia Leon,Tablet Air,Tecnologia,7,640,0.05
+2024-02-22,Sur,Carlos Vega,Auriculares,Accesorios,10,130,0.0
+2024-02-22,Centro,Ana Torres,Monitor 27,Tecnologia,7,320,0.0
+2024-02-22,Centro,Carlos Vega,Tablet Air,Tecnologia,2,640,0.0
+2024-02-22,Este,Luis Gomez,Silla Ergo,Mobiliario,14,280,0.1
+2024-02-23,Norte,Javier Sanz,Auriculares,Accesorios,2,130,0.0
+2024-02-23,Este,Javier Sanz,Silla Ergo,Mobiliario,12,280,0.1
+2024-02-24,Oeste,Elena Mora,Laptop Pro,Tecnologia,5,1200,0.1
+2024-02-24,Norte,Carlos Vega,Raton Ergo,Accesorios,5,45,0.0
+2024-02-24,Este,Carlos Vega,Tablet Air,Tecnologia,5,640,0.15
+2024-02-24,Este,Sofia Leon,Teclado Mec,Accesorios,6,95,0.0
+2024-02-25,Oeste,Elena Mora,Monitor 27,Tecnologia,8,320,0.0
+2024-02-25,Este,Sofia Leon,Tablet Air,Tecnologia,10,640,0.1
+2024-02-25,Oeste,Luis Gomez,Tablet Air,Tecnologia,13,640,0.0
+2024-02-25,Centro,Elena Mora,Auriculares,Accesorios,8,130,0.05
+2024-02-26,Centro,Pedro Diaz,Monitor 27,Tecnologia,2,320,0.15
+2024-02-26,Sur,Javier Sanz,Escritorio,Mobiliario,9,450,0.05
+2024-02-26,Oeste,Pedro Diaz,Laptop Pro,Tecnologia,4,1200,0.0
+2024-02-26,Sur,Javier Sanz,Laptop Pro,Tecnologia,11,1200,0.0
+2024-02-26,Norte,Ana Torres,Raton Ergo,Accesorios,3,45,0.1
+2024-02-26,Este,Pedro Diaz,Teclado Mec,Accesorios,10,95,0.05
+2024-02-27,Este,Ana Torres,Teclado Mec,Accesorios,7,95,0.1
+2024-02-27,Oeste,Marta Ruiz,Tablet Air,Tecnologia,2,640,0.0
+2024-02-27,Norte,Marta Ruiz,Auriculares,Accesorios,8,130,0.0
+2024-02-27,Norte,Carlos Vega,Raton Ergo,Accesorios,7,45,0.0
+2024-02-28,Sur,Ana Torres,Auriculares,Accesorios,1,130,0.1
+2024-02-28,Norte,,Raton Ergo,Accesorios,4,45,0.1
+2024-02-29,Norte,Elena Mora,Laptop Pro,Tecnologia,8,1200,0.05
+2024-02-29,Oeste,Marta Ruiz,Laptop Pro,Tecnologia,9,1200,0.15
+2024-03-01,Centro,Javier Sanz,Auriculares,Accesorios,4,130,0.0
+2024-03-01,Este,Carlos Vega,Auriculares,Accesorios,6,130,0.05
+2024-03-01,Este,Luis Gomez,Tablet Air,Tecnologia,6,640,0.1
+2024-03-01,Sur,Sofia Leon,Monitor 27,Tecnologia,3,320,0.1
+2024-03-01,Sur,Luis Gomez,Silla Ergo,Mobiliario,10,280,0.1
+2024-03-01,Oeste,Elena Mora,Laptop Pro,Tecnologia,12,1200,0.0
+2024-03-01,Sur,Elena Mora,Silla Ergo,Mobiliario,6,280,0.05
+2024-03-02,Oeste,Ana Torres,Silla Ergo,Mobiliario,6,280,0.1
+2024-03-02,Norte,Carlos Vega,Teclado Mec,Accesorios,11,95,0.0
+2024-03-02,Este,Luis Gomez,Laptop Pro,Tecnologia,8,1200,0.0
+2024-03-03,Norte,Javier Sanz,Auriculares,Accesorios,8,130,0.15
+2024-03-03,Este,Carlos Vega,Silla Ergo,Mobiliario,6,280,0.15
+2024-03-03,Sur,Ana Torres,Escritorio,Mobiliario,2,450,0.15
+2024-03-04,Este,Pedro Diaz,Raton Ergo,Accesorios,9,45,0.0
+2024-03-04,Centro,Sofia Leon,Teclado Mec,Accesorios,1,95,0.0
+2024-03-04,Oeste,Marta Ruiz,Monitor 27,Tecnologia,11,320,0.0
+2024-03-04,Centro,Marta Ruiz,Laptop Pro,Tecnologia,12,1200,
+2024-03-05,Sur,Luis Gomez,Monitor 27,Tecnologia,7,320,0.15
+2024-03-05,Centro,Ana Torres,Raton Ergo,Accesorios,1,45,
+2024-03-05,Norte,Luis Gomez,Tablet Air,Tecnologia,1,640,0.05
+2024-03-05,Oeste,Javier Sanz,Laptop Pro,Tecnologia,6,1200,0.0
+2024-03-05,Sur,Marta Ruiz,Teclado Mec,Accesorios,11,95,0.0
+2024-03-06,Este,Elena Mora,Tablet Air,Tecnologia,6,640,0.05
+2024-03-06,Norte,Carlos Vega,Raton Ergo,Accesorios,10,45,0.1
+2024-03-07,Norte,Carlos Vega,Escritorio,Mobiliario,8,450,0.0
+2024-03-07,Norte,Marta Ruiz,Silla Ergo,Mobiliario,13,280,0.15
+2024-03-07,Norte,Luis Gomez,Auriculares,Accesorios,1,130,0.15
+2024-03-07,Oeste,Luis Gomez,Monitor 27,Tecnologia,5,320,0.0
+2024-03-07,Oeste,Javier Sanz,Teclado Mec,Accesorios,7,95,0.0
+2024-03-07,Oeste,Marta Ruiz,Tablet Air,Tecnologia,5,640,0.0
+2024-03-08,Norte,Sofia Leon,Tablet Air,Tecnologia,11,640,0.15
+2024-03-09,Oeste,Ana Torres,Tablet Air,Tecnologia,4,640,0.15
+2024-03-10,Centro,Ana Torres,Tablet Air,Tecnologia,10,640,0.0
+2024-03-11,Este,Javier Sanz,Escritorio,Mobiliario,3,450,
+2024-03-11,Oeste,Javier Sanz,Escritorio,Mobiliario,14,450,0.0
+2024-03-11,Centro,Marta Ruiz,Monitor 27,Tecnologia,6,320,0.15
+2024-03-11,Sur,Carlos Vega,Monitor 27,Tecnologia,11,320,0.0
+2024-03-12,Sur,Ana Torres,Silla Ergo,Mobiliario,8,280,0.0
+2024-03-12,Oeste,Ana Torres,Escritorio,Mobiliario,2,450,0.05
+2024-03-12,Este,Luis Gomez,Silla Ergo,Mobiliario,5,280,0.15
+2024-03-12,Norte,Elena Mora,Tablet Air,Tecnologia,3,640,0.0
+2024-03-13,Oeste,Ana Torres,Raton Ergo,Accesorios,4,45,0.0
+2024-03-13,Centro,Javier Sanz,Raton Ergo,Accesorios,1,45,0.0
+2024-03-14,Este,Sofia Leon,Raton Ergo,Accesorios,1,45,0.0
+2024-03-14,Norte,Sofia Leon,Monitor 27,Tecnologia,8,320,0.1
+2024-03-14,Sur,Luis Gomez,Raton Ergo,Accesorios,12,45,0.05
+2024-03-14,Sur,Luis Gomez,Escritorio,Mobiliario,13,450,0.0
+2024-03-14,Norte,Javier Sanz,Escritorio,Mobiliario,8,450,0.0
+2024-03-15,Oeste,Elena Mora,Teclado Mec,Accesorios,4,95,0.05
+2024-03-15,Norte,Javier Sanz,Auriculares,Accesorios,14,130,0.0
+2024-03-15,Oeste,Carlos Vega,Laptop Pro,Tecnologia,12,1200,0.0
+2024-03-15,Centro,Luis Gomez,Raton Ergo,Accesorios,4,45,0.1
+2024-03-17,Oeste,Javier Sanz,Laptop Pro,Tecnologia,5,1200,0.05
+2024-03-17,Centro,Carlos Vega,Raton Ergo,Accesorios,12,45,0.0
+2024-03-19,Norte,Marta Ruiz,Raton Ergo,Accesorios,1,45,0.0
+2024-03-20,Oeste,Luis Gomez,Laptop Pro,Tecnologia,10,1200,0.0
+2024-03-21,Sur,Javier Sanz,Teclado Mec,Accesorios,12,95,0.0
+2024-03-22,Norte,Carlos Vega,Teclado Mec,Accesorios,11,95,0.0
+2024-03-23,Norte,Elena Mora,Tablet Air,Tecnologia,11,640,0.05
+2024-03-24,Centro,Elena Mora,Raton Ergo,Accesorios,3,45,0.1
+2024-03-24,Este,Sofia Leon,Laptop Pro,Tecnologia,10,1200,0.1
+2024-03-24,Este,Pedro Diaz,Laptop Pro,Tecnologia,2,1200,0.15
+2024-03-25,Centro,Javier Sanz,Monitor 27,Tecnologia,6,320,0.0
+2024-03-25,Sur,Sofia Leon,Escritorio,Mobiliario,2,450,0.0
+2024-03-26,Sur,Elena Mora,Teclado Mec,Accesorios,12,95,0.0
+2024-03-26,Sur,Javier Sanz,Silla Ergo,Mobiliario,11,280,
+2024-03-26,Este,Carlos Vega,Silla Ergo,Mobiliario,13,280,0.05
+2024-03-26,Oeste,Luis Gomez,Monitor 27,Tecnologia,8,320,0.15
+2024-03-27,Norte,Javier Sanz,Raton Ergo,Accesorios,2,45,0.0
+2024-03-27,Este,Elena Mora,Silla Ergo,Mobiliario,3,280,0.0
+2024-03-27,Norte,Marta Ruiz,Raton Ergo,Accesorios,1,45,0.05
+2024-03-27,Norte,Sofia Leon,Monitor 27,Tecnologia,1,320,0.0
+2024-03-27,Oeste,Carlos Vega,Monitor 27,Tecnologia,4,320,0.1
+2024-03-28,Oeste,Carlos Vega,Raton Ergo,Accesorios,2,45,0.05
+2024-03-28,Sur,Carlos Vega,Laptop Pro,Tecnologia,9,1200,0.0
+2024-03-28,Este,Marta Ruiz,Auriculares,Accesorios,10,130,0.0
+2024-03-28,Oeste,Carlos Vega,Auriculares,Accesorios,6,130,0.1
+2024-03-28,Este,Javier Sanz,Tablet Air,Tecnologia,2,640,
+2024-03-29,Centro,Carlos Vega,Tablet Air,Tecnologia,1,640,0.0
+2024-03-29,Centro,Ana Torres,Silla Ergo,Mobiliario,4,280,0.05
+2024-03-30,Norte,Pedro Diaz,Raton Ergo,Accesorios,3,45,0.0
+2024-03-30,Centro,Carlos Vega,Auriculares,Accesorios,8,130,0.05
+2024-03-30,Oeste,Elena Mora,Monitor 27,Tecnologia,12,320,0.0
+2024-03-30,Centro,Ana Torres,Tablet Air,Tecnologia,8,640,0.0
+2024-03-30,Norte,Sofia Leon,Auriculares,Accesorios,10,130,0.05
+2024-03-31,Sur,Elena Mora,Escritorio,Mobiliario,7,450,0.0
+2024-03-31,Sur,Sofia Leon,Silla Ergo,Mobiliario,6,280,0.0
+2024-03-31,Este,Elena Mora,Monitor 27,Tecnologia,5,320,0.1
+2024-03-31,Este,Elena Mora,Teclado Mec,Accesorios,11,95,0.15
+2024-03-31,Oeste,Javier Sanz,Raton Ergo,Accesorios,9,45,0.0
+2024-04-01,Sur,Pedro Diaz,Teclado Mec,Accesorios,7,95,0.05
+2024-04-01,Oeste,Elena Mora,Auriculares,Accesorios,14,130,0.15
+2024-04-01,Centro,Luis Gomez,Silla Ergo,Mobiliario,2,280,0.0
+2024-04-02,Sur,Javier Sanz,Monitor 27,Tecnologia,9,320,0.0
+2024-04-03,Norte,Carlos Vega,Auriculares,Accesorios,10,130,0.1
+2024-04-03,Norte,Carlos Vega,Laptop Pro,Tecnologia,2,1200,0.0
+2024-04-04,Sur,Ana Torres,Monitor 27,Tecnologia,6,320,0.15
+2024-04-04,Centro,Carlos Vega,Auriculares,Accesorios,1,130,0.05
+2024-04-05,Norte,Luis Gomez,Auriculares,Accesorios,1,130,0.0
+2024-04-06,Centro,Sofia Leon,Escritorio,Mobiliario,5,450,0.05
+2024-04-06,Norte,Luis Gomez,Raton Ergo,Accesorios,5,45,0.1
+2024-04-07,Oeste,Javier Sanz,Raton Ergo,Accesorios,9,45,0.1
+2024-04-07,Centro,Marta Ruiz,Monitor 27,Tecnologia,9,320,0.05
+2024-04-07,Norte,Elena Mora,Tablet Air,Tecnologia,14,640,0.05
+2024-04-08,Oeste,Sofia Leon,Laptop Pro,Tecnologia,10,1200,
+2024-04-08,Este,Javier Sanz,Escritorio,Mobiliario,9,450,0.05
+2024-04-08,Sur,Ana Torres,Escritorio,Mobiliario,1,450,0.1
+2024-04-09,Centro,Marta Ruiz,Auriculares,Accesorios,1,130,0.0
+2024-04-09,Oeste,Ana Torres,Tablet Air,Tecnologia,10,640,0.1
+2024-04-09,Centro,Luis Gomez,Raton Ergo,Accesorios,2,45,0.0
+2024-04-09,Centro,Pedro Diaz,Monitor 27,Tecnologia,13,320,0.0
+2024-04-10,Sur,Elena Mora,Teclado Mec,Accesorios,1,95,0.05
+2024-04-10,Norte,Ana Torres,Monitor 27,Tecnologia,6,320,0.15
+2024-04-11,Oeste,Javier Sanz,Auriculares,Accesorios,8,130,0.15
+2024-04-11,Este,Ana Torres,Auriculares,Accesorios,7,130,0.0
+2024-04-11,Sur,Javier Sanz,Raton Ergo,Accesorios,14,45,0.05
+2024-04-11,Oeste,Marta Ruiz,Tablet Air,Tecnologia,13,640,0.15
+2024-04-11,Sur,Elena Mora,Laptop Pro,Tecnologia,8,1200,0.0
+2024-04-12,Sur,Elena Mora,Laptop Pro,Tecnologia,13,1200,0.15
+2024-04-12,Oeste,Sofia Leon,Laptop Pro,Tecnologia,1,1200,0.0
+2024-04-12,Norte,Luis Gomez,Escritorio,Mobiliario,14,450,0.05
+2024-04-12,Oeste,Carlos Vega,Silla Ergo,Mobiliario,8,280,0.0
+2024-04-12,Centro,Carlos Vega,Raton Ergo,Accesorios,2,45,0.0
+2024-04-13,Sur,Sofia Leon,Teclado Mec,Accesorios,1,95,0.05
+2024-04-13,Oeste,Carlos Vega,Teclado Mec,Accesorios,8,95,0.0
+2024-04-14,Este,Sofia Leon,Tablet Air,Tecnologia,3,640,0.05
+2024-04-14,Norte,Marta Ruiz,Tablet Air,Tecnologia,5,640,0.05
+2024-04-14,Norte,Pedro Diaz,Silla Ergo,Mobiliario,2,280,0.1
+2024-04-15,Centro,Carlos Vega,Raton Ergo,Accesorios,9,45,0.0
+2024-04-15,Norte,Javier Sanz,Escritorio,Mobiliario,10,450,0.0
+2024-04-15,Sur,Sofia Leon,Monitor 27,Tecnologia,13,320,0.1
+2024-04-15,Norte,Marta Ruiz,Auriculares,Accesorios,4,130,0.15
+2024-04-15,Oeste,Ana Torres,Tablet Air,Tecnologia,4,640,0.15
+2024-04-16,Oeste,Pedro Diaz,Monitor 27,Tecnologia,7,320,0.15
+2024-04-16,Este,Marta Ruiz,Laptop Pro,Tecnologia,14,1200,0.15
+2024-04-16,Centro,Javier Sanz,Tablet Air,Tecnologia,4,640,0.05
+2024-04-17,Centro,Marta Ruiz,Monitor 27,Tecnologia,5,320,0.0
+2024-04-17,Este,Ana Torres,Tablet Air,Tecnologia,8,640,0.1
+2024-04-18,Norte,Luis Gomez,Laptop Pro,Tecnologia,14,1200,0.0
+2024-04-18,Sur,Ana Torres,Laptop Pro,Tecnologia,2,1200,0.05
+2024-04-18,Norte,Sofia Leon,Teclado Mec,Accesorios,2,95,0.0
+2024-04-19,Norte,Carlos Vega,Teclado Mec,Accesorios,2,95,0.0
+2024-04-19,Sur,Carlos Vega,Teclado Mec,Accesorios,3,95,0.15
+2024-04-19,Este,Luis Gomez,Silla Ergo,Mobiliario,4,280,0.0
+2024-04-20,Centro,Carlos Vega,Tablet Air,Tecnologia,4,640,0.1
+2024-04-20,Centro,Carlos Vega,Auriculares,Accesorios,12,130,0.0
+2024-04-20,Norte,Ana Torres,Tablet Air,Tecnologia,1,640,0.1
+2024-04-20,Centro,Ana Torres,Laptop Pro,Tecnologia,5,1200,0.05
+2024-04-20,Centro,Marta Ruiz,Tablet Air,Tecnologia,7,640,0.1
+2024-04-21,Centro,Luis Gomez,Silla Ergo,Mobiliario,3,280,0.0
+2024-04-21,Norte,Javier Sanz,Laptop Pro,Tecnologia,10,1200,0.15
+2024-04-21,Sur,Ana Torres,Monitor 27,Tecnologia,7,320,0.0
+2024-04-21,Sur,Luis Gomez,Escritorio,Mobiliario,6,450,0.05
+2024-04-22,Centro,Carlos Vega,Monitor 27,Tecnologia,4,320,0.0
+2024-04-22,Este,Marta Ruiz,Teclado Mec,Accesorios,12,95,0.05
+2024-04-22,Sur,Javier Sanz,Tablet Air,Tecnologia,14,640,0.05
+2024-04-23,Sur,Sofia Leon,Tablet Air,Tecnologia,14,640,0.0
+2024-04-23,Norte,Pedro Diaz,Escritorio,Mobiliario,7,450,0.15
+2024-04-23,Sur,Carlos Vega,Raton Ergo,Accesorios,4,45,0.15
+2024-04-23,Centro,Sofia Leon,Raton Ergo,Accesorios,2,45,0.1
+2024-04-24,Oeste,Javier Sanz,Silla Ergo,Mobiliario,7,280,0.0
+2024-04-24,Centro,Luis Gomez,Monitor 27,Tecnologia,9,320,0.05
+2024-04-24,Sur,Elena Mora,Monitor 27,Tecnologia,6,320,0.05
+2024-04-24,Norte,Pedro Diaz,Silla Ergo,Mobiliario,5,280,0.05
+2024-04-25,Sur,Luis Gomez,Laptop Pro,Tecnologia,3,1200,0.0
+2024-04-25,Este,Marta Ruiz,Tablet Air,Tecnologia,11,640,0.0
+2024-04-25,Centro,Ana Torres,Auriculares,Accesorios,7,130,0.0
+2024-04-25,Norte,Luis Gomez,Monitor 27,Tecnologia,3,320,0.0
+2024-04-25,Centro,Marta Ruiz,Silla Ergo,Mobiliario,9,280,0.0
+2024-04-25,Sur,Sofia Leon,Tablet Air,Tecnologia,7,640,0.1
+2024-04-25,Sur,Luis Gomez,Teclado Mec,Accesorios,6,95,0.05
+2024-04-26,Norte,Pedro Diaz,Escritorio,Mobiliario,2,450,0.05
+2024-04-26,Sur,Elena Mora,Tablet Air,Tecnologia,5,640,0.15
+2024-04-26,Norte,Carlos Vega,Teclado Mec,Accesorios,8,95,0.0
+2024-04-26,Norte,Javier Sanz,Raton Ergo,Accesorios,7,45,0.0
+2024-04-27,Norte,Ana Torres,Auriculares,Accesorios,5,130,0.0
+2024-04-27,Norte,Javier Sanz,Auriculares,Accesorios,11,130,0.0
+2024-04-27,Norte,Carlos Vega,Monitor 27,Tecnologia,5,320,0.1
+2024-04-27,Oeste,Sofia Leon,Silla Ergo,Mobiliario,14,280,0.0
+2024-04-28,Centro,Javier Sanz,Escritorio,Mobiliario,13,450,0.0
+2024-04-29,Centro,Javier Sanz,Monitor 27,Tecnologia,1,320,0.0
+2024-04-29,Este,Pedro Diaz,Silla Ergo,Mobiliario,4,280,0.05
+2024-04-30,Sur,Marta Ruiz,Teclado Mec,Accesorios,10,95,0.0
+2024-04-30,Oeste,Marta Ruiz,Tablet Air,Tecnologia,8,640,0.15
+2024-04-30,Oeste,Marta Ruiz,Raton Ergo,Accesorios,5,45,0.0
+2024-04-30,Centro,Carlos Vega,Silla Ergo,Mobiliario,14,280,0.0
+2024-05-01,Norte,Luis Gomez,Tablet Air,Tecnologia,11,640,0.0
+2024-05-01,Este,Carlos Vega,Teclado Mec,Accesorios,4,95,0.0
+2024-05-02,Centro,Marta Ruiz,Auriculares,Accesorios,2,130,0.0
+2024-05-02,Norte,Carlos Vega,Tablet Air,Tecnologia,9,640,0.0
+2024-05-02,Sur,Pedro Diaz,Silla Ergo,Mobiliario,14,280,0.1
+2024-05-02,Sur,Marta Ruiz,Raton Ergo,Accesorios,13,45,0.1
+2024-05-02,Este,Marta Ruiz,Teclado Mec,Accesorios,12,95,0.0
+2024-05-02,Norte,Elena Mora,Laptop Pro,Tecnologia,12,1200,0.0
+2024-05-03,Norte,Pedro Diaz,Raton Ergo,Accesorios,11,45,0.15
+2024-05-03,Centro,Pedro Diaz,Auriculares,Accesorios,12,130,0.0
+2024-05-04,Oeste,Carlos Vega,Tablet Air,Tecnologia,2,640,0.15
+2024-05-04,Centro,Ana Torres,Silla Ergo,Mobiliario,7,280,0.0
+2024-05-04,Este,Ana Torres,Escritorio,Mobiliario,3,450,0.0
+2024-05-05,Norte,Carlos Vega,Escritorio,Mobiliario,9,450,
+2024-05-05,Norte,Carlos Vega,Escritorio,Mobiliario,9,450,0.0
+2024-05-06,Este,Elena Mora,Laptop Pro,Tecnologia,1,1200,0.05
+2024-05-07,Sur,Carlos Vega,Teclado Mec,Accesorios,1,95,0.0
+2024-05-08,Oeste,Marta Ruiz,Escritorio,Mobiliario,9,450,0.1
+2024-05-09,Norte,Pedro Diaz,Monitor 27,Tecnologia,11,320,0.0
+2024-05-10,Centro,Carlos Vega,Teclado Mec,Accesorios,1,95,0.0
+2024-05-12,Norte,Carlos Vega,Silla Ergo,Mobiliario,2,280,0.0
+2024-05-12,Norte,Ana Torres,Silla Ergo,Mobiliario,6,280,0.1
+2024-05-12,Centro,Sofia Leon,Laptop Pro,Tecnologia,7,1200,0.0
+2024-05-13,Centro,Sofia Leon,Tablet Air,Tecnologia,12,640,0.05
+2024-05-13,Centro,Pedro Diaz,Laptop Pro,Tecnologia,6,1200,0.1
+2024-05-13,Centro,Sofia Leon,Silla Ergo,Mobiliario,5,280,0.15
+2024-05-13,Sur,Javier Sanz,Silla Ergo,Mobiliario,7,280,0.0
+2024-05-14,Este,Luis Gomez,Raton Ergo,Accesorios,4,45,0.05
+2024-05-14,Este,Javier Sanz,Monitor 27,Tecnologia,14,320,0.1
+2024-05-14,Norte,Javier Sanz,Tablet Air,Tecnologia,6,640,0.1
+2024-05-14,Norte,Ana Torres,Auriculares,Accesorios,5,130,0.0
+2024-05-14,Norte,Marta Ruiz,Silla Ergo,Mobiliario,12,280,0.05
+2024-05-14,Centro,Sofia Leon,Monitor 27,Tecnologia,9,320,
+2024-05-15,Sur,Ana Torres,Raton Ergo,Accesorios,10,45,0.1
+2024-05-15,Norte,Marta Ruiz,Silla Ergo,Mobiliario,3,280,0.05
+2024-05-15,Centro,Luis Gomez,Escritorio,Mobiliario,5,450,0.05
+2024-05-15,Centro,Ana Torres,Raton Ergo,Accesorios,9,45,0.0
+2024-05-15,Oeste,Luis Gomez,Teclado Mec,Accesorios,4,95,0.0
+2024-05-16,Oeste,Marta Ruiz,Teclado Mec,Accesorios,11,95,0.15
+2024-05-16,Este,Marta Ruiz,Escritorio,Mobiliario,6,450,0.15
+2024-05-16,Norte,Ana Torres,Laptop Pro,Tecnologia,13,1200,0.1
+2024-05-16,Este,Luis Gomez,Escritorio,Mobiliario,13,450,0.0
+2024-05-17,Sur,Sofia Leon,Monitor 27,Tecnologia,3,320,0.0
+2024-05-17,Centro,Ana Torres,Raton Ergo,Accesorios,5,45,0.0
+2024-05-18,Centro,Marta Ruiz,Silla Ergo,Mobiliario,11,280,0.05
+2024-05-19,Centro,Sofia Leon,Laptop Pro,Tecnologia,9,1200,0.05
+2024-05-19,Sur,Ana Torres,Tablet Air,Tecnologia,14,640,0.05
+2024-05-20,Centro,Marta Ruiz,Teclado Mec,Accesorios,7,95,0.0
+2024-05-20,Oeste,Pedro Diaz,Silla Ergo,Mobiliario,3,280,0.1
+2024-05-20,Sur,Carlos Vega,Tablet Air,Tecnologia,1,640,0.1
+2024-05-20,Norte,Marta Ruiz,Raton Ergo,Accesorios,9,45,0.05
+2024-05-21,Oeste,Elena Mora,Silla Ergo,Mobiliario,7,280,0.0
+2024-05-21,Sur,Marta Ruiz,Laptop Pro,Tecnologia,7,1200,0.0
+2024-05-23,Este,Elena Mora,Teclado Mec,Accesorios,7,95,0.0
+2024-05-23,Centro,Luis Gomez,Raton Ergo,Accesorios,14,45,0.05
+2024-05-23,Oeste,Marta Ruiz,Silla Ergo,Mobiliario,1,280,0.0
+2024-05-24,Oeste,Sofia Leon,Silla Ergo,Mobiliario,12,280,0.0
+2024-05-25,Norte,Ana Torres,Silla Ergo,Mobiliario,11,280,0.0
+2024-05-25,Norte,Marta Ruiz,Tablet Air,Tecnologia,5,640,0.15
+2024-05-26,Oeste,Luis Gomez,Teclado Mec,Accesorios,3,95,0.0
+2024-05-27,Norte,Carlos Vega,Silla Ergo,Mobiliario,7,280,0.0
+2024-05-27,Norte,Ana Torres,Laptop Pro,Tecnologia,11,1200,0.0
+2024-05-27,Este,Elena Mora,Monitor 27,Tecnologia,7,320,0.0
+2024-05-28,Norte,Carlos Vega,Monitor 27,Tecnologia,2,320,0.0
+2024-05-28,Oeste,,Tablet Air,Tecnologia,5,640,0.0
+2024-05-28,Sur,Carlos Vega,Monitor 27,Tecnologia,3,320,0.0
+2024-05-29,Norte,Pedro Diaz,Auriculares,Accesorios,14,130,0.05
+2024-05-29,Norte,Sofia Leon,Tablet Air,Tecnologia,4,640,0.0
+2024-05-29,Centro,Pedro Diaz,Monitor 27,Tecnologia,7,320,0.0
+2024-05-30,Este,Marta Ruiz,Raton Ergo,Accesorios,1,45,0.0
+2024-05-30,Oeste,Carlos Vega,Laptop Pro,Tecnologia,8,1200,0.0
+2024-05-30,Norte,Ana Torres,Auriculares,Accesorios,14,130,0.0
+2024-05-30,Sur,Sofia Leon,Tablet Air,Tecnologia,6,640,0.05
+2024-05-31,Centro,Javier Sanz,Silla Ergo,Mobiliario,9,280,0.05
+2024-05-31,Sur,Sofia Leon,Auriculares,Accesorios,12,130,0.1
+2024-06-01,Oeste,Pedro Diaz,Tablet Air,Tecnologia,4,640,0.15
+2024-06-01,Centro,Sofia Leon,Monitor 27,Tecnologia,14,320,0.0
+2024-06-01,Centro,Pedro Diaz,Silla Ergo,Mobiliario,14,280,0.15
+2024-06-01,Oeste,Carlos Vega,Escritorio,Mobiliario,4,450,0.0
+2024-06-01,Centro,Marta Ruiz,Escritorio,Mobiliario,7,450,0.0
+2024-06-01,Este,Luis Gomez,Laptop Pro,Tecnologia,7,1200,0.15
+2024-06-01,Este,Marta Ruiz,Escritorio,Mobiliario,9,450,0.0
+2024-06-02,Centro,Ana Torres,Monitor 27,Tecnologia,11,320,0.15
+2024-06-02,Centro,Sofia Leon,Raton Ergo,Accesorios,2,45,0.05
+2024-06-02,Este,Sofia Leon,Monitor 27,Tecnologia,8,320,0.0
+2024-06-02,Norte,Pedro Diaz,Raton Ergo,Accesorios,11,45,0.0
+2024-06-02,Centro,Marta Ruiz,Tablet Air,Tecnologia,5,640,0.0
+2024-06-02,Norte,Elena Mora,Monitor 27,Tecnologia,4,320,0.15
+2024-06-04,Centro,Marta Ruiz,Silla Ergo,Mobiliario,8,280,0.0
+2024-06-04,Sur,Pedro Diaz,Teclado Mec,Accesorios,14,95,0.05
+2024-06-04,Norte,Marta Ruiz,Auriculares,Accesorios,7,130,0.0
+2024-06-05,Sur,Sofia Leon,Teclado Mec,Accesorios,12,95,0.05
+2024-06-06,Este,Pedro Diaz,Raton Ergo,Accesorios,10,45,0.1
+2024-06-06,Sur,Carlos Vega,Tablet Air,Tecnologia,11,640,0.05
+2024-06-06,Este,Sofia Leon,Auriculares,Accesorios,11,130,0.15
+2024-06-06,Oeste,Elena Mora,Monitor 27,Tecnologia,2,320,0.0
+2024-06-07,Norte,Sofia Leon,Teclado Mec,Accesorios,3,95,0.0
+2024-06-07,Oeste,Sofia Leon,Silla Ergo,Mobiliario,4,280,0.15
+2024-06-07,Norte,Ana Torres,Auriculares,Accesorios,2,130,0.0
+2024-06-07,Centro,Ana Torres,Raton Ergo,Accesorios,1,45,0.15
+2024-06-07,Sur,Pedro Diaz,Raton Ergo,Accesorios,9,45,0.0
+2024-06-07,Oeste,Marta Ruiz,Escritorio,Mobiliario,11,450,0.05
+2024-06-07,Sur,Elena Mora,Monitor 27,Tecnologia,7,320,0.1
+2024-06-07,Oeste,Javier Sanz,Escritorio,Mobiliario,7,450,0.0
+2024-06-07,Este,Ana Torres,Tablet Air,Tecnologia,12,640,0.0
+2024-06-08,Sur,Pedro Diaz,Auriculares,Accesorios,3,130,0.1
+2024-06-08,Norte,Ana Torres,Tablet Air,Tecnologia,6,640,0.0
+2024-06-08,Norte,Sofia Leon,Teclado Mec,Accesorios,12,95,0.05
+2024-06-08,Sur,Elena Mora,Teclado Mec,Accesorios,7,95,0.05
+2024-06-08,Norte,Pedro Diaz,Escritorio,Mobiliario,13,450,0.1
+2024-06-09,Centro,Carlos Vega,Tablet Air,Tecnologia,4,640,0.0
+2024-06-09,Norte,Elena Mora,Silla Ergo,Mobiliario,13,280,0.0
+2024-06-09,Este,Sofia Leon,Auriculares,Accesorios,9,130,0.0
+2024-06-09,Norte,Ana Torres,Teclado Mec,Accesorios,13,95,0.0
+2024-06-10,Sur,Carlos Vega,Auriculares,Accesorios,10,130,0.0
+2024-06-10,Norte,Luis Gomez,Silla Ergo,Mobiliario,7,280,0.0
+2024-06-11,Este,Elena Mora,Raton Ergo,Accesorios,4,45,0.05
+2024-06-11,Centro,Elena Mora,Auriculares,Accesorios,10,130,0.1
+2024-06-11,Norte,Ana Torres,Escritorio,Mobiliario,6,450,0.1
+2024-06-12,Oeste,Sofia Leon,Silla Ergo,Mobiliario,10,280,0.05
+2024-06-12,Sur,Sofia Leon,Laptop Pro,Tecnologia,12,1200,0.0
+2024-06-12,Este,Javier Sanz,Auriculares,Accesorios,11,130,0.1
+2024-06-12,Centro,Carlos Vega,Auriculares,Accesorios,1,130,0.15
+2024-06-12,Oeste,Sofia Leon,Escritorio,Mobiliario,7,450,0.1
+2024-06-12,Norte,Carlos Vega,Auriculares,Accesorios,2,130,0.0
+2024-06-13,Oeste,Ana Torres,Raton Ergo,Accesorios,7,45,0.0
+2024-06-13,Norte,Elena Mora,Auriculares,Accesorios,5,130,0.1
+2024-06-13,Norte,Ana Torres,Tablet Air,Tecnologia,11,640,0.0
+2024-06-13,Centro,Pedro Diaz,Tablet Air,Tecnologia,5,640,0.0
+2024-06-13,Centro,Elena Mora,Raton Ergo,Accesorios,11,45,0.05
+2024-06-13,Norte,Luis Gomez,Raton Ergo,Accesorios,6,45,0.05
+2024-06-13,Oeste,Pedro Diaz,Teclado Mec,Accesorios,13,95,0.05
+2024-06-14,Norte,Javier Sanz,Silla Ergo,Mobiliario,7,280,0.05
+2024-06-15,Oeste,Pedro Diaz,Teclado Mec,Accesorios,3,95,0.0
+2024-06-15,Centro,Ana Torres,Raton Ergo,Accesorios,5,45,0.15
+2024-06-15,Este,Elena Mora,Silla Ergo,Mobiliario,13,280,0.0
+2024-06-15,Centro,Javier Sanz,Escritorio,Mobiliario,5,450,0.0
+2024-06-15,Este,Pedro Diaz,Auriculares,Accesorios,4,130,0.0
+2024-06-16,Este,Ana Torres,Teclado Mec,Accesorios,9,95,
+2024-06-16,Oeste,Luis Gomez,Silla Ergo,Mobiliario,9,280,0.0
+2024-06-16,Sur,Elena Mora,Raton Ergo,Accesorios,13,45,0.15
+2024-06-16,Oeste,Marta Ruiz,Escritorio,Mobiliario,10,450,0.0
+2024-06-16,Norte,Ana Torres,Auriculares,Accesorios,1,130,0.0
+2024-06-17,Este,Luis Gomez,Escritorio,Mobiliario,1,450,
+2024-06-17,Este,Elena Mora,Monitor 27,Tecnologia,12,320,0.15
+2024-06-17,Centro,Marta Ruiz,Escritorio,Mobiliario,2,450,0.0
+2024-06-18,Oeste,Sofia Leon,Tablet Air,Tecnologia,10,640,0.05
+2024-06-18,Oeste,Sofia Leon,Laptop Pro,Tecnologia,11,1200,0.05
+2024-06-18,Centro,Javier Sanz,Teclado Mec,Accesorios,7,95,0.15
+2024-06-18,Este,Carlos Vega,Raton Ergo,Accesorios,1,45,0.1
+2024-06-18,Oeste,Luis Gomez,Auriculares,Accesorios,7,130,0.15
+2024-06-19,Oeste,Sofia Leon,Tablet Air,Tecnologia,7,640,0.0
+2024-06-19,Este,Elena Mora,Escritorio,Mobiliario,10,450,0.0
+2024-06-19,Norte,Sofia Leon,Laptop Pro,Tecnologia,4,1200,0.15
+2024-06-19,Sur,Carlos Vega,Teclado Mec,Accesorios,1,95,0.15
+2024-06-20,Oeste,Elena Mora,Escritorio,Mobiliario,12,450,0.0
+2024-06-20,Sur,Luis Gomez,Escritorio,Mobiliario,14,450,0.05
+2024-06-20,Oeste,,Raton Ergo,Accesorios,14,45,0.1
+2024-06-20,Oeste,Ana Torres,Monitor 27,Tecnologia,13,320,0.0
+2024-06-21,Sur,Pedro Diaz,Auriculares,Accesorios,9,130,0.1
+2024-06-21,Oeste,Javier Sanz,Escritorio,Mobiliario,7,450,0.15
+2024-06-22,Norte,,Raton Ergo,Accesorios,7,45,0.05
+2024-06-22,Este,Javier Sanz,Laptop Pro,Tecnologia,10,1200,0.05
+2024-06-22,Centro,Elena Mora,Silla Ergo,Mobiliario,12,280,0.0
+2024-06-23,Norte,Sofia Leon,Tablet Air,Tecnologia,14,640,0.05
+2024-06-23,Sur,Pedro Diaz,Escritorio,Mobiliario,1,450,0.0
+2024-06-23,Centro,Pedro Diaz,Raton Ergo,Accesorios,4,45,0.0
+2024-06-23,Norte,Elena Mora,Silla Ergo,Mobiliario,3,280,0.0
+2024-06-23,Sur,Luis Gomez,Auriculares,Accesorios,3,130,0.0
+2024-06-24,Norte,Luis Gomez,Teclado Mec,Accesorios,8,95,0.0
+2024-06-24,Oeste,Javier Sanz,Tablet Air,Tecnologia,7,640,0.15
+2024-06-24,Oeste,Pedro Diaz,Raton Ergo,Accesorios,4,45,0.1
+2024-06-25,Norte,Ana Torres,Auriculares,Accesorios,7,130,0.15
+2024-06-25,Centro,Marta Ruiz,Monitor 27,Tecnologia,5,320,0.15
+2024-06-25,Oeste,Sofia Leon,Raton Ergo,Accesorios,1,45,0.1
+2024-06-27,Centro,Ana Torres,Tablet Air,Tecnologia,12,640,0.05
+2024-06-27,Sur,Ana Torres,Laptop Pro,Tecnologia,2,1200,0.15
+2024-06-27,Centro,Luis Gomez,Silla Ergo,Mobiliario,5,280,0.0
+2024-06-27,Centro,Luis Gomez,Teclado Mec,Accesorios,13,95,0.0
+2024-06-28,Este,,Laptop Pro,Tecnologia,13,1200,0.0
+2024-06-28,Norte,Pedro Diaz,Teclado Mec,Accesorios,3,95,0.0
+2024-06-28,Centro,Pedro Diaz,Raton Ergo,Accesorios,3,45,0.0
+2024-06-29,Centro,Sofia Leon,Tablet Air,Tecnologia,10,640,0.15
+2024-06-29,Norte,Pedro Diaz,Escritorio,Mobiliario,10,450,0.0
+2024-06-29,Este,Sofia Leon,Silla Ergo,Mobiliario,7,280,0.05
+2024-06-29,Este,,Tablet Air,Tecnologia,8,640,0.0
+2024-06-29,Este,Luis Gomez,Laptop Pro,Tecnologia,11,1200,0.0
+2024-06-29,Norte,Ana Torres,Monitor 27,Tecnologia,3,320,0.1
+2024-06-30,Oeste,Elena Mora,Escritorio,Mobiliario,4,450,0.0
+2024-06-30,Oeste,Javier Sanz,Monitor 27,Tecnologia,3,320,0.05
+2024-07-01,Centro,Elena Mora,Silla Ergo,Mobiliario,12,280,0.0
+2024-07-01,Norte,Elena Mora,Silla Ergo,Mobiliario,11,280,0.1
+2024-07-01,Oeste,Carlos Vega,Laptop Pro,Tecnologia,12,1200,0.0
+2024-07-01,Centro,Ana Torres,Monitor 27,Tecnologia,3,320,0.0
+2024-07-01,Sur,Elena Mora,Escritorio,Mobiliario,14,450,0.0
+2024-07-02,Sur,Marta Ruiz,Teclado Mec,Accesorios,10,95,0.0
+2024-07-02,Sur,Javier Sanz,Raton Ergo,Accesorios,13,45,0.0
+2024-07-02,Este,Javier Sanz,Silla Ergo,Mobiliario,4,280,0.0
+2024-07-02,Oeste,Pedro Diaz,Silla Ergo,Mobiliario,13,280,0.0
+2024-07-03,Oeste,Marta Ruiz,Laptop Pro,Tecnologia,7,1200,0.05
+2024-07-03,Norte,Marta Ruiz,Laptop Pro,Tecnologia,2,1200,0.1
+2024-07-03,Centro,Marta Ruiz,Teclado Mec,Accesorios,5,95,0.15
+2024-07-03,Norte,Luis Gomez,Auriculares,Accesorios,6,130,0.05
+2024-07-03,Norte,Luis Gomez,Auriculares,Accesorios,8,130,0.15
+2024-07-03,Sur,Pedro Diaz,Tablet Air,Tecnologia,10,640,0.0
+2024-07-03,Este,Ana Torres,Escritorio,Mobiliario,10,450,0.0
+2024-07-03,Norte,Ana Torres,Tablet Air,Tecnologia,11,640,0.15
+2024-07-04,Sur,Carlos Vega,Teclado Mec,Accesorios,2,95,0.1
+2024-07-04,Este,Carlos Vega,Auriculares,Accesorios,3,130,0.15
+2024-07-05,Sur,Pedro Diaz,Monitor 27,Tecnologia,14,320,0.05
+2024-07-05,Oeste,Marta Ruiz,Laptop Pro,Tecnologia,4,1200,0.0
+2024-07-05,Norte,Pedro Diaz,Teclado Mec,Accesorios,1,95,0.0
+2024-07-05,Sur,Elena Mora,Laptop Pro,Tecnologia,14,1200,0.0
+2024-07-06,Este,Ana Torres,Auriculares,Accesorios,5,130,0.05
+2024-07-06,Sur,Carlos Vega,Raton Ergo,Accesorios,12,45,0.15
+2024-07-07,Centro,Javier Sanz,Auriculares,Accesorios,14,130,0.05
+2024-07-07,Sur,Javier Sanz,Silla Ergo,Mobiliario,10,280,0.15
+2024-07-07,Centro,Elena Mora,Teclado Mec,Accesorios,8,95,0.05
+2024-07-07,Oeste,Pedro Diaz,Laptop Pro,Tecnologia,8,1200,0.0
+2024-07-08,Centro,Javier Sanz,Silla Ergo,Mobiliario,8,280,0.1
+2024-07-08,Norte,Pedro Diaz,Escritorio,Mobiliario,9,450,0.15
+2024-07-08,Centro,Elena Mora,Laptop Pro,Tecnologia,7,1200,0.15
+2024-07-09,Este,Sofia Leon,Silla Ergo,Mobiliario,7,280,0.0
+2024-07-09,Oeste,Javier Sanz,Monitor 27,Tecnologia,10,320,0.15
+2024-07-09,Norte,Marta Ruiz,Tablet Air,Tecnologia,13,640,0.0
+2024-07-09,Sur,Pedro Diaz,Raton Ergo,Accesorios,11,45,0.15
+2024-07-09,Oeste,Marta Ruiz,Tablet Air,Tecnologia,3,640,0.05
+2024-07-10,Oeste,Carlos Vega,Laptop Pro,Tecnologia,13,1200,0.1
+2024-07-10,Centro,Carlos Vega,Tablet Air,Tecnologia,1,640,0.05
+2024-07-10,Oeste,Elena Mora,Auriculares,Accesorios,5,130,0.05
+2024-07-10,Sur,Carlos Vega,Teclado Mec,Accesorios,2,95,0.15
+2024-07-11,Norte,Elena Mora,Teclado Mec,Accesorios,4,95,0.05
+2024-07-11,Centro,Sofia Leon,Monitor 27,Tecnologia,6,320,0.1
+2024-07-11,Norte,Javier Sanz,Auriculares,Accesorios,5,130,0.0
+2024-07-11,Oeste,Pedro Diaz,Monitor 27,Tecnologia,11,320,0.0
+2024-07-12,Este,Sofia Leon,Raton Ergo,Accesorios,11,45,0.0
+2024-07-13,Oeste,Marta Ruiz,Monitor 27,Tecnologia,12,320,0.1
+2024-07-13,Norte,Ana Torres,Raton Ergo,Accesorios,14,45,0.15
+2024-07-13,Este,Elena Mora,Teclado Mec,Accesorios,13,95,0.0
+2024-07-13,Este,Javier Sanz,Auriculares,Accesorios,5,130,0.05
+2024-07-13,Norte,Luis Gomez,Teclado Mec,Accesorios,12,95,0.0
+2024-07-13,Sur,Ana Torres,Monitor 27,Tecnologia,1,320,0.1
+2024-07-14,Norte,Luis Gomez,Raton Ergo,Accesorios,12,45,0.15
+2024-07-14,Centro,Pedro Diaz,Monitor 27,Tecnologia,5,320,
+2024-07-15,Norte,Pedro Diaz,Escritorio,Mobiliario,9,450,0.0
+2024-07-15,Sur,Ana Torres,Auriculares,Accesorios,2,130,0.0
+2024-07-15,Norte,Elena Mora,Raton Ergo,Accesorios,4,45,0.1
+2024-07-16,Norte,,Raton Ergo,Accesorios,5,45,0.1
+2024-07-16,Este,Sofia Leon,Monitor 27,Tecnologia,5,320,0.0
+2024-07-16,Sur,Javier Sanz,Silla Ergo,Mobiliario,7,280,0.05
+2024-07-17,Norte,Marta Ruiz,Monitor 27,Tecnologia,1,320,0.0
+2024-07-17,Norte,Luis Gomez,Monitor 27,Tecnologia,4,320,0.0
+2024-07-17,Sur,Ana Torres,Silla Ergo,Mobiliario,6,280,0.0
+2024-07-17,Oeste,Elena Mora,Laptop Pro,Tecnologia,5,1200,0.1
+2024-07-18,Oeste,Marta Ruiz,Raton Ergo,Accesorios,7,45,0.0
+2024-07-18,Este,Sofia Leon,Raton Ergo,Accesorios,1,45,0.15
+2024-07-18,Centro,Elena Mora,Tablet Air,Tecnologia,8,640,0.15
+2024-07-18,Oeste,Marta Ruiz,Auriculares,Accesorios,4,130,0.0
+2024-07-19,Sur,Carlos Vega,Teclado Mec,Accesorios,1,95,0.0
+2024-07-19,Oeste,Sofia Leon,Auriculares,Accesorios,1,130,0.15
+2024-07-19,Oeste,Carlos Vega,Escritorio,Mobiliario,1,450,0.15
+2024-07-19,Centro,Elena Mora,Silla Ergo,Mobiliario,9,280,0.0
+2024-07-19,Sur,Luis Gomez,Tablet Air,Tecnologia,14,640,0.1
+2024-07-19,Norte,Ana Torres,Laptop Pro,Tecnologia,12,1200,0.0
+2024-07-21,Norte,Elena Mora,Escritorio,Mobiliario,7,450,0.0
+2024-07-21,Norte,Marta Ruiz,Teclado Mec,Accesorios,2,95,0.1
+2024-07-21,Sur,Elena Mora,Laptop Pro,Tecnologia,5,1200,0.0
+2024-07-21,Norte,Javier Sanz,Tablet Air,Tecnologia,2,640,0.1
+2024-07-21,Sur,,Monitor 27,Tecnologia,14,320,0.0
+2024-07-22,Sur,Ana Torres,Monitor 27,Tecnologia,8,320,0.05
+2024-07-22,Oeste,Pedro Diaz,Silla Ergo,Mobiliario,10,280,0.05
+2024-07-22,Centro,Pedro Diaz,Teclado Mec,Accesorios,3,95,0.0
+2024-07-22,Norte,Ana Torres,Laptop Pro,Tecnologia,5,1200,0.0
+2024-07-22,Este,Elena Mora,Laptop Pro,Tecnologia,7,1200,0.05
+2024-07-22,Este,Carlos Vega,Silla Ergo,Mobiliario,9,280,0.0
+2024-07-22,Oeste,Sofia Leon,Teclado Mec,Accesorios,9,95,0.0
+2024-07-23,Sur,Javier Sanz,Auriculares,Accesorios,6,130,
+2024-07-23,Centro,Marta Ruiz,Raton Ergo,Accesorios,14,45,0.05
+2024-07-25,Oeste,Elena Mora,Auriculares,Accesorios,1,130,0.15
+2024-07-25,Norte,Sofia Leon,Escritorio,Mobiliario,9,450,0.05
+2024-07-25,Norte,Elena Mora,Laptop Pro,Tecnologia,7,1200,0.0
+2024-07-25,Sur,Carlos Vega,Laptop Pro,Tecnologia,1,1200,0.0
+2024-07-25,Norte,Javier Sanz,Laptop Pro,Tecnologia,4,1200,0.15
+2024-07-26,Oeste,Marta Ruiz,Auriculares,Accesorios,4,130,0.15
+2024-07-26,Sur,Carlos Vega,Silla Ergo,Mobiliario,12,280,0.0
+2024-07-26,Oeste,Marta Ruiz,Monitor 27,Tecnologia,7,320,0.0
+2024-07-27,Norte,Marta Ruiz,Laptop Pro,Tecnologia,3,1200,
+2024-07-28,Norte,Luis Gomez,Monitor 27,Tecnologia,1,320,0.05
+2024-07-28,Este,Luis Gomez,Laptop Pro,Tecnologia,3,1200,0.0
+2024-07-28,Centro,Elena Mora,Laptop Pro,Tecnologia,5,1200,0.1
+2024-07-28,Norte,Carlos Vega,Teclado Mec,Accesorios,3,95,0.15
+2024-07-28,Centro,Carlos Vega,Raton Ergo,Accesorios,7,45,0.15
+2024-07-29,Centro,Marta Ruiz,Monitor 27,Tecnologia,5,320,0.0
+2024-07-30,Oeste,Javier Sanz,Silla Ergo,Mobiliario,14,280,0.0
+2024-07-30,Sur,Sofia Leon,Raton Ergo,Accesorios,11,45,0.0
+2024-07-30,Norte,Sofia Leon,Laptop Pro,Tecnologia,10,1200,0.1
+2024-07-31,Norte,Sofia Leon,Tablet Air,Tecnologia,13,640,0.15
+2024-07-31,Oeste,Elena Mora,Escritorio,Mobiliario,2,450,0.05
+2024-07-31,Centro,Marta Ruiz,Auriculares,Accesorios,10,130,0.0
+2024-07-31,Norte,Ana Torres,Teclado Mec,Accesorios,12,95,0.0
+2024-08-01,Sur,Javier Sanz,Monitor 27,Tecnologia,1,320,0.0
+2024-08-01,Este,Pedro Diaz,Monitor 27,Tecnologia,3,320,0.05
+2024-08-02,Centro,Sofia Leon,Silla Ergo,Mobiliario,14,280,0.05
+2024-08-02,Centro,Sofia Leon,Escritorio,Mobiliario,4,450,0.15
+2024-08-02,Centro,Javier Sanz,Monitor 27,Tecnologia,9,320,0.0
+2024-08-03,Centro,Marta Ruiz,Silla Ergo,Mobiliario,12,280,0.1
+2024-08-03,Oeste,Luis Gomez,Monitor 27,Tecnologia,5,320,0.0
+2024-08-03,Centro,Pedro Diaz,Escritorio,Mobiliario,14,450,0.1
+2024-08-03,Norte,Elena Mora,Raton Ergo,Accesorios,11,45,0.15
+2024-08-03,Norte,Carlos Vega,Escritorio,Mobiliario,14,450,0.0
+2024-08-04,Este,Elena Mora,Raton Ergo,Accesorios,10,45,0.0
+2024-08-04,Oeste,Javier Sanz,Tablet Air,Tecnologia,3,640,0.0
+2024-08-04,Norte,Carlos Vega,Tablet Air,Tecnologia,11,640,0.0
+2024-08-05,Oeste,Ana Torres,Monitor 27,Tecnologia,1,320,0.0
+2024-08-05,Sur,Elena Mora,Auriculares,Accesorios,2,130,0.05
+2024-08-06,Centro,Pedro Diaz,Escritorio,Mobiliario,2,450,0.0
+2024-08-06,Centro,Sofia Leon,Monitor 27,Tecnologia,10,320,0.0
+2024-08-06,Sur,Ana Torres,Teclado Mec,Accesorios,7,95,0.0
+2024-08-07,Oeste,Ana Torres,Silla Ergo,Mobiliario,10,280,0.0
+2024-08-07,Oeste,Ana Torres,Silla Ergo,Mobiliario,1,280,0.05
+2024-08-07,Este,Ana Torres,Escritorio,Mobiliario,6,450,0.0
+2024-08-07,Norte,Marta Ruiz,Laptop Pro,Tecnologia,8,1200,0.05
+2024-08-07,Centro,Ana Torres,Silla Ergo,Mobiliario,2,280,0.15
+2024-08-08,Sur,Pedro Diaz,Escritorio,Mobiliario,5,450,0.1
+2024-08-08,Norte,Pedro Diaz,Tablet Air,Tecnologia,3,640,0.15
+2024-08-08,Norte,Carlos Vega,Teclado Mec,Accesorios,13,95,0.0
+2024-08-09,Norte,Javier Sanz,Tablet Air,Tecnologia,3,640,0.1
+2024-08-09,Centro,Javier Sanz,Teclado Mec,Accesorios,2,95,0.15
+2024-08-09,Norte,Elena Mora,Teclado Mec,Accesorios,8,95,
+2024-08-10,Sur,Marta Ruiz,Tablet Air,Tecnologia,4,640,0.0
+2024-08-10,Norte,Elena Mora,Silla Ergo,Mobiliario,7,280,0.0
+2024-08-11,Este,Luis Gomez,Raton Ergo,Accesorios,13,45,0.05
+2024-08-11,Centro,Carlos Vega,Laptop Pro,Tecnologia,11,1200,0.0
+2024-08-12,Centro,Pedro Diaz,Silla Ergo,Mobiliario,2,280,0.0
+2024-08-12,Oeste,Elena Mora,Auriculares,Accesorios,1,130,0.15
+2024-08-12,Sur,Sofia Leon,Raton Ergo,Accesorios,5,45,0.0
+2024-08-12,Norte,Luis Gomez,Monitor 27,Tecnologia,10,320,0.0
+2024-08-12,Sur,Ana Torres,Laptop Pro,Tecnologia,12,1200,0.0
+2024-08-12,Norte,Luis Gomez,Laptop Pro,Tecnologia,4,1200,0.15
+2024-08-13,Centro,Marta Ruiz,Raton Ergo,Accesorios,12,45,0.1
+2024-08-13,Centro,Carlos Vega,Auriculares,Accesorios,2,130,0.0
+2024-08-13,Sur,Luis Gomez,Escritorio,Mobiliario,8,450,0.0
+2024-08-13,Centro,Carlos Vega,Monitor 27,Tecnologia,1,320,0.0
+2024-08-15,Centro,Sofia Leon,Laptop Pro,Tecnologia,7,1200,0.0
+2024-08-15,Norte,Ana Torres,Laptop Pro,Tecnologia,8,1200,0.0
+2024-08-15,Norte,Javier Sanz,Escritorio,Mobiliario,10,450,0.0
+2024-08-16,Sur,Marta Ruiz,Monitor 27,Tecnologia,8,320,0.0
+2024-08-17,Centro,Javier Sanz,Monitor 27,Tecnologia,4,320,0.0
+2024-08-17,Sur,Javier Sanz,Tablet Air,Tecnologia,2,640,0.05
+2024-08-17,Centro,Ana Torres,Monitor 27,Tecnologia,11,320,0.05
+2024-08-18,Norte,Javier Sanz,Auriculares,Accesorios,12,130,0.1
+2024-08-18,Sur,Luis Gomez,Silla Ergo,Mobiliario,1,280,0.0
+2024-08-18,Centro,Javier Sanz,Laptop Pro,Tecnologia,10,1200,0.0
+2024-08-18,Centro,Sofia Leon,Laptop Pro,Tecnologia,9,1200,0.1
+2024-08-18,Centro,,Escritorio,Mobiliario,13,450,0.15
+2024-08-18,Este,Elena Mora,Monitor 27,Tecnologia,12,320,0.1
+2024-08-19,Este,Ana Torres,Raton Ergo,Accesorios,8,45,0.0
+2024-08-19,Este,Marta Ruiz,Monitor 27,Tecnologia,1,320,0.0
+2024-08-19,Sur,Luis Gomez,Monitor 27,Tecnologia,13,320,0.15
+2024-08-19,Oeste,Sofia Leon,Tablet Air,Tecnologia,4,640,0.15
+2024-08-20,Norte,Sofia Leon,Teclado Mec,Accesorios,10,95,0.15
+2024-08-20,Sur,Javier Sanz,Auriculares,Accesorios,5,130,0.0
+2024-08-20,Centro,Carlos Vega,Monitor 27,Tecnologia,6,320,0.0
+2024-08-20,Sur,Sofia Leon,Raton Ergo,Accesorios,5,45,0.05
+2024-08-20,Oeste,Marta Ruiz,Silla Ergo,Mobiliario,4,280,0.15
+2024-08-20,Norte,Pedro Diaz,Raton Ergo,Accesorios,12,45,0.1
+2024-08-20,Centro,,Silla Ergo,Mobiliario,14,280,0.0
+2024-08-20,Centro,Pedro Diaz,Teclado Mec,Accesorios,8,95,0.05
+2024-08-21,Centro,Marta Ruiz,Auriculares,Accesorios,12,130,0.0
+2024-08-21,Oeste,Javier Sanz,Silla Ergo,Mobiliario,3,280,0.0
+2024-08-21,Norte,Ana Torres,Auriculares,Accesorios,2,130,0.15
+2024-08-22,Norte,Luis Gomez,Tablet Air,Tecnologia,3,640,0.05
+2024-08-22,Centro,Javier Sanz,Monitor 27,Tecnologia,1,320,0.15
+2024-08-23,Este,Luis Gomez,Auriculares,Accesorios,1,130,0.0
+2024-08-23,Este,Sofia Leon,Escritorio,Mobiliario,3,450,0.0
+2024-08-23,Sur,Carlos Vega,Raton Ergo,Accesorios,11,45,0.05
+2024-08-25,Sur,Carlos Vega,Tablet Air,Tecnologia,1,640,0.1
+2024-08-25,Sur,Marta Ruiz,Silla Ergo,Mobiliario,5,280,0.05
+2024-08-25,Sur,Pedro Diaz,Auriculares,Accesorios,2,130,0.0
+2024-08-25,Sur,Carlos Vega,Teclado Mec,Accesorios,14,95,0.05
+2024-08-25,Este,Elena Mora,Raton Ergo,Accesorios,9,45,0.0
+2024-08-26,Centro,Ana Torres,Escritorio,Mobiliario,2,450,0.05
+2024-08-26,Norte,Sofia Leon,Auriculares,Accesorios,8,130,0.0
+2024-08-26,Sur,Javier Sanz,Tablet Air,Tecnologia,14,640,0.0
+2024-08-26,Oeste,Sofia Leon,Silla Ergo,Mobiliario,12,280,0.15
+2024-08-26,Norte,Pedro Diaz,Escritorio,Mobiliario,12,450,0.05
+2024-08-27,Norte,Elena Mora,Silla Ergo,Mobiliario,12,280,0.15
+2024-08-27,Oeste,Luis Gomez,Monitor 27,Tecnologia,9,320,0.0
+2024-08-28,Norte,Marta Ruiz,Teclado Mec,Accesorios,13,95,0.0
+2024-08-28,Norte,,Laptop Pro,Tecnologia,5,1200,0.0
+2024-08-29,Oeste,Ana Torres,Teclado Mec,Accesorios,1,95,0.0
+2024-08-29,Norte,Pedro Diaz,Laptop Pro,Tecnologia,4,1200,0.05
+2024-08-30,Este,Luis Gomez,Tablet Air,Tecnologia,12,640,0.1
+2024-08-30,Norte,Javier Sanz,Raton Ergo,Accesorios,2,45,0.15
+2024-08-30,Sur,Ana Torres,Monitor 27,Tecnologia,11,320,0.05
+2024-08-30,Norte,Marta Ruiz,Monitor 27,Tecnologia,9,320,0.05
+2024-08-30,Centro,Luis Gomez,Raton Ergo,Accesorios,11,45,0.0
+2024-08-31,Oeste,Carlos Vega,Tablet Air,Tecnologia,11,640,0.0
+2024-08-31,Centro,Javier Sanz,Laptop Pro,Tecnologia,10,1200,0.0
+2024-08-31,Norte,Sofia Leon,Silla Ergo,Mobiliario,4,280,0.1
+2024-08-31,Este,Luis Gomez,Silla Ergo,Mobiliario,7,280,0.0
+2024-08-31,Este,Elena Mora,Auriculares,Accesorios,11,130,0.0
+2024-09-01,Oeste,Marta Ruiz,Silla Ergo,Mobiliario,12,280,0.0
+2024-09-01,Oeste,Ana Torres,Silla Ergo,Mobiliario,6,280,
+2024-09-01,Sur,Sofia Leon,Auriculares,Accesorios,9,130,0.0
+2024-09-02,Norte,Carlos Vega,Silla Ergo,Mobiliario,12,280,0.0
+2024-09-02,Oeste,Pedro Diaz,Escritorio,Mobiliario,10,450,0.0
+2024-09-02,Oeste,Sofia Leon,Laptop Pro,Tecnologia,9,1200,0.0
+2024-09-02,Oeste,Marta Ruiz,Silla Ergo,Mobiliario,5,280,0.0
+2024-09-02,Sur,Carlos Vega,Auriculares,Accesorios,9,130,0.05
+2024-09-03,Oeste,Javier Sanz,Escritorio,Mobiliario,5,450,0.0
+2024-09-04,Sur,Ana Torres,Auriculares,Accesorios,5,130,
+2024-09-05,Sur,Sofia Leon,Raton Ergo,Accesorios,5,45,0.0
+2024-09-05,Este,Marta Ruiz,Tablet Air,Tecnologia,9,640,0.05
+2024-09-05,Centro,Javier Sanz,Monitor 27,Tecnologia,3,320,0.0
+2024-09-05,Norte,Luis Gomez,Monitor 27,Tecnologia,1,320,0.05
+2024-09-06,Centro,Pedro Diaz,Silla Ergo,Mobiliario,13,280,0.0
+2024-09-06,Oeste,Pedro Diaz,Silla Ergo,Mobiliario,10,280,0.15
+2024-09-06,Norte,Marta Ruiz,Raton Ergo,Accesorios,8,45,0.05
+2024-09-06,Sur,Pedro Diaz,Auriculares,Accesorios,6,130,0.0
+2024-09-07,Norte,Ana Torres,Escritorio,Mobiliario,13,450,0.15
+2024-09-07,Norte,Ana Torres,Tablet Air,Tecnologia,2,640,0.05
+2024-09-07,Este,Marta Ruiz,Escritorio,Mobiliario,6,450,
+2024-09-08,Sur,Carlos Vega,Teclado Mec,Accesorios,3,95,0.0
+2024-09-08,Centro,Sofia Leon,Silla Ergo,Mobiliario,1,280,0.1
+2024-09-08,Sur,Ana Torres,Tablet Air,Tecnologia,1,640,0.0
+2024-09-08,Centro,Carlos Vega,Monitor 27,Tecnologia,13,320,0.0
+2024-09-09,Sur,Marta Ruiz,Monitor 27,Tecnologia,8,320,0.1
+2024-09-09,Este,Sofia Leon,Auriculares,Accesorios,12,130,0.1
+2024-09-09,Sur,Marta Ruiz,Tablet Air,Tecnologia,1,640,0.0
+2024-09-09,Centro,Elena Mora,Tablet Air,Tecnologia,4,640,0.1
+2024-09-11,Este,Ana Torres,Tablet Air,Tecnologia,5,640,0.05
+2024-09-11,Centro,Elena Mora,Raton Ergo,Accesorios,13,45,0.05
+2024-09-11,Este,Javier Sanz,Silla Ergo,Mobiliario,1,280,0.05
+2024-09-12,Norte,Pedro Diaz,Auriculares,Accesorios,7,130,0.0
+2024-09-12,Centro,Elena Mora,Raton Ergo,Accesorios,7,45,0.1
+2024-09-12,Centro,Ana Torres,Raton Ergo,Accesorios,14,45,0.05
+2024-09-12,Norte,Carlos Vega,Tablet Air,Tecnologia,11,640,0.0
+2024-09-13,Sur,Javier Sanz,Monitor 27,Tecnologia,9,320,
+2024-09-13,Norte,Luis Gomez,Laptop Pro,Tecnologia,12,1200,0.1
+2024-09-13,Centro,Ana Torres,Escritorio,Mobiliario,3,450,0.0
+2024-09-13,Sur,Luis Gomez,Monitor 27,Tecnologia,11,320,0.1
+2024-09-13,Norte,Javier Sanz,Laptop Pro,Tecnologia,5,1200,0.0
+2024-09-14,Centro,Marta Ruiz,Escritorio,Mobiliario,13,450,0.0
+2024-09-14,Sur,Sofia Leon,Escritorio,Mobiliario,10,450,0.0
+2024-09-15,Centro,Elena Mora,Silla Ergo,Mobiliario,9,280,0.0
+2024-09-15,Norte,Pedro Diaz,Monitor 27,Tecnologia,1,320,0.05
+2024-09-15,Este,Elena Mora,Auriculares,Accesorios,8,130,0.1
+2024-09-16,Este,Luis Gomez,Silla Ergo,Mobiliario,5,280,0.0
+2024-09-16,Sur,Carlos Vega,Teclado Mec,Accesorios,14,95,0.0
+2024-09-16,Centro,Pedro Diaz,Auriculares,Accesorios,1,130,0.05
+2024-09-16,Norte,Ana Torres,Auriculares,Accesorios,12,130,0.05
+2024-09-17,Este,Sofia Leon,Tablet Air,Tecnologia,12,640,0.1
+2024-09-18,Centro,Sofia Leon,Auriculares,Accesorios,5,130,0.1
+2024-09-18,Sur,Pedro Diaz,Teclado Mec,Accesorios,3,95,0.0
+2024-09-19,Centro,Sofia Leon,Silla Ergo,Mobiliario,11,280,0.05
+2024-09-19,Norte,Pedro Diaz,Laptop Pro,Tecnologia,10,1200,0.0
+2024-09-19,Sur,Elena Mora,Escritorio,Mobiliario,8,450,0.0
+2024-09-19,Este,Elena Mora,Escritorio,Mobiliario,8,450,0.0
+2024-09-20,Centro,Carlos Vega,Monitor 27,Tecnologia,10,320,0.1
+2024-09-20,Oeste,Sofia Leon,Teclado Mec,Accesorios,9,95,0.0
+2024-09-20,Sur,Elena Mora,Silla Ergo,Mobiliario,13,280,0.15
+2024-09-21,Oeste,Luis Gomez,Tablet Air,Tecnologia,3,640,0.05
+2024-09-21,Sur,Pedro Diaz,Tablet Air,Tecnologia,3,640,0.0
+2024-09-21,Norte,Ana Torres,Silla Ergo,Mobiliario,12,280,0.1
+2024-09-21,Centro,Pedro Diaz,Escritorio,Mobiliario,6,450,0.0
+2024-09-21,Este,Sofia Leon,Auriculares,Accesorios,6,130,0.15
+2024-09-21,Norte,Pedro Diaz,Auriculares,Accesorios,13,130,0.15
+2024-09-21,Este,Luis Gomez,Auriculares,Accesorios,3,130,0.0
+2024-09-22,Sur,Elena Mora,Silla Ergo,Mobiliario,13,280,0.05
+2024-09-22,Oeste,Ana Torres,Monitor 27,Tecnologia,8,320,0.0
+2024-09-23,Este,Luis Gomez,Silla Ergo,Mobiliario,10,280,0.0
+2024-09-23,Norte,Elena Mora,Raton Ergo,Accesorios,13,45,0.15
+2024-09-23,Centro,Marta Ruiz,Tablet Air,Tecnologia,8,640,0.0
+2024-09-24,Norte,Ana Torres,Teclado Mec,Accesorios,11,95,0.0
+2024-09-24,Centro,Marta Ruiz,Auriculares,Accesorios,13,130,0.15
+2024-09-24,Norte,Elena Mora,Laptop Pro,Tecnologia,6,1200,0.0
+2024-09-24,Norte,Javier Sanz,Monitor 27,Tecnologia,14,320,0.05
+2024-09-25,Sur,Elena Mora,Raton Ergo,Accesorios,14,45,0.0
+2024-09-25,Sur,Luis Gomez,Laptop Pro,Tecnologia,14,1200,0.05
+2024-09-25,Norte,Marta Ruiz,Raton Ergo,Accesorios,1,45,0.0
+2024-09-26,Centro,Carlos Vega,Monitor 27,Tecnologia,3,320,0.15
+2024-09-26,Norte,Ana Torres,Tablet Air,Tecnologia,7,640,0.0
+2024-09-26,Centro,Javier Sanz,Laptop Pro,Tecnologia,8,1200,0.1
+2024-09-26,Norte,Carlos Vega,Escritorio,Mobiliario,2,450,
+2024-09-26,Norte,Javier Sanz,Raton Ergo,Accesorios,6,45,0.0
+2024-09-26,Norte,Pedro Diaz,Escritorio,Mobiliario,10,450,0.0
+2024-09-26,Oeste,Sofia Leon,Silla Ergo,Mobiliario,10,280,0.05
+2024-09-27,Oeste,Ana Torres,Monitor 27,Tecnologia,1,320,0.0
+2024-09-27,Norte,Marta Ruiz,Silla Ergo,Mobiliario,7,280,
+2024-09-27,Oeste,Carlos Vega,Auriculares,Accesorios,6,130,0.0
+2024-09-27,Este,Sofia Leon,Raton Ergo,Accesorios,11,45,0.0
+2024-09-27,Este,Marta Ruiz,Escritorio,Mobiliario,7,450,
+2024-09-28,Sur,Elena Mora,Auriculares,Accesorios,3,130,0.15
+2024-09-29,Centro,Marta Ruiz,Teclado Mec,Accesorios,9,95,0.0
+2024-09-29,Oeste,Marta Ruiz,Teclado Mec,Accesorios,1,95,0.0
+2024-09-29,Oeste,Pedro Diaz,Auriculares,Accesorios,12,130,0.0
+2024-09-29,Centro,Marta Ruiz,Tablet Air,Tecnologia,4,640,0.05
+2024-09-30,Centro,Elena Mora,Escritorio,Mobiliario,11,450,0.0
+2024-09-30,Sur,Javier Sanz,Raton Ergo,Accesorios,3,45,0.0
+2024-09-30,Centro,Luis Gomez,Tablet Air,Tecnologia,8,640,0.15
+2024-09-30,Sur,Pedro Diaz,Tablet Air,Tecnologia,12,640,0.0
+2024-10-01,Sur,Marta Ruiz,Silla Ergo,Mobiliario,10,280,0.0
+2024-10-01,Sur,Carlos Vega,Silla Ergo,Mobiliario,4,280,0.0
+2024-10-02,Sur,Marta Ruiz,Teclado Mec,Accesorios,5,95,0.0
+2024-10-02,Oeste,Marta Ruiz,Tablet Air,Tecnologia,1,640,0.0
+2024-10-03,Este,Ana Torres,Tablet Air,Tecnologia,2,640,0.0
+2024-10-03,Este,Luis Gomez,Escritorio,Mobiliario,9,450,0.0
+2024-10-04,Centro,Carlos Vega,Monitor 27,Tecnologia,3,320,0.1
+2024-10-04,Sur,Elena Mora,Auriculares,Accesorios,12,130,0.0
+2024-10-04,Este,Javier Sanz,Laptop Pro,Tecnologia,6,1200,0.05
+2024-10-05,Oeste,Ana Torres,Silla Ergo,Mobiliario,9,280,0.0
+2024-10-05,Sur,Ana Torres,Tablet Air,Tecnologia,6,640,
+2024-10-06,Centro,Ana Torres,Raton Ergo,Accesorios,10,45,0.15
+2024-10-06,Norte,Ana Torres,Auriculares,Accesorios,8,130,0.15
+2024-10-06,Este,Pedro Diaz,Monitor 27,Tecnologia,13,320,0.15
+2024-10-06,Sur,Marta Ruiz,Teclado Mec,Accesorios,13,95,0.0
+2024-10-06,Norte,Sofia Leon,Silla Ergo,Mobiliario,13,280,0.1
+2024-10-07,Oeste,Sofia Leon,Tablet Air,Tecnologia,3,640,0.15
+2024-10-07,Centro,Javier Sanz,Teclado Mec,Accesorios,2,95,0.0
+2024-10-07,Este,Marta Ruiz,Monitor 27,Tecnologia,13,320,0.0
+2024-10-08,Este,Javier Sanz,Teclado Mec,Accesorios,6,95,0.0
+2024-10-08,Centro,Sofia Leon,Laptop Pro,Tecnologia,5,1200,0.0
+2024-10-08,Sur,Marta Ruiz,Teclado Mec,Accesorios,12,95,0.0
+2024-10-08,Centro,Marta Ruiz,Tablet Air,Tecnologia,7,640,0.0
+2024-10-08,Norte,Marta Ruiz,Teclado Mec,Accesorios,9,95,0.0
+2024-10-09,Sur,Carlos Vega,Raton Ergo,Accesorios,8,45,0.0
+2024-10-09,Norte,Sofia Leon,Laptop Pro,Tecnologia,1,1200,0.05
+2024-10-09,Centro,Sofia Leon,Auriculares,Accesorios,14,130,0.05
+2024-10-09,Este,Sofia Leon,Teclado Mec,Accesorios,12,95,0.1
+2024-10-09,Norte,Elena Mora,Silla Ergo,Mobiliario,7,280,0.05
+2024-10-10,Este,Sofia Leon,Silla Ergo,Mobiliario,12,280,0.0
+2024-10-10,Oeste,Javier Sanz,Raton Ergo,Accesorios,10,45,0.0
+2024-10-11,Centro,Elena Mora,Raton Ergo,Accesorios,11,45,0.0
+2024-10-11,Oeste,Javier Sanz,Silla Ergo,Mobiliario,12,280,0.0
+2024-10-11,Norte,Carlos Vega,Tablet Air,Tecnologia,5,640,0.1
+2024-10-11,Norte,Pedro Diaz,Silla Ergo,Mobiliario,6,280,0.1
+2024-10-12,Este,Luis Gomez,Teclado Mec,Accesorios,1,95,0.05
+2024-10-12,Centro,Carlos Vega,Escritorio,Mobiliario,14,450,0.0
+2024-10-12,Centro,Ana Torres,Raton Ergo,Accesorios,7,45,0.0
+2024-10-12,Centro,Javier Sanz,Silla Ergo,Mobiliario,7,280,0.0
+2024-10-12,Centro,Elena Mora,Escritorio,Mobiliario,13,450,0.05
+2024-10-12,Oeste,Sofia Leon,Teclado Mec,Accesorios,9,95,0.0
+2024-10-12,Sur,,Laptop Pro,Tecnologia,8,1200,0.15
+2024-10-13,Centro,Pedro Diaz,Silla Ergo,Mobiliario,13,280,0.0
+2024-10-13,Sur,Luis Gomez,Laptop Pro,Tecnologia,11,1200,0.1
+2024-10-13,Centro,Sofia Leon,Tablet Air,Tecnologia,4,640,0.0
+2024-10-13,Centro,Marta Ruiz,Teclado Mec,Accesorios,8,95,0.0
+2024-10-13,Oeste,Elena Mora,Raton Ergo,Accesorios,7,45,0.05
+2024-10-13,Oeste,Ana Torres,Escritorio,Mobiliario,1,450,0.0
+2024-10-14,Este,Pedro Diaz,Teclado Mec,Accesorios,2,95,
+2024-10-14,Sur,Javier Sanz,Silla Ergo,Mobiliario,4,280,0.0
+2024-10-14,Norte,Carlos Vega,Monitor 27,Tecnologia,7,320,0.0
+2024-10-14,Sur,Ana Torres,Monitor 27,Tecnologia,4,320,0.0
+2024-10-15,Norte,Marta Ruiz,Tablet Air,Tecnologia,2,640,0.0
+2024-10-15,Norte,Carlos Vega,Teclado Mec,Accesorios,1,95,0.1
+2024-10-15,Oeste,Carlos Vega,Silla Ergo,Mobiliario,9,280,0.05
+2024-10-15,Centro,Sofia Leon,Escritorio,Mobiliario,10,450,0.0
+2024-10-17,Norte,Elena Mora,Raton Ergo,Accesorios,12,45,0.1
+2024-10-17,Este,Sofia Leon,Silla Ergo,Mobiliario,2,280,0.05
+2024-10-17,Sur,Luis Gomez,Laptop Pro,Tecnologia,14,1200,0.1
+2024-10-17,Este,Elena Mora,Teclado Mec,Accesorios,12,95,0.1
+2024-10-17,Norte,Marta Ruiz,Raton Ergo,Accesorios,10,45,0.0
+2024-10-18,Sur,Javier Sanz,Monitor 27,Tecnologia,12,320,0.15
+2024-10-18,Norte,Luis Gomez,Monitor 27,Tecnologia,2,320,0.0
+2024-10-18,Este,Elena Mora,Auriculares,Accesorios,8,130,0.05
+2024-10-18,Oeste,,Monitor 27,Tecnologia,13,320,0.15
+2024-10-18,Centro,Javier Sanz,Auriculares,Accesorios,10,130,0.15
+2024-10-19,Este,Marta Ruiz,Escritorio,Mobiliario,8,450,0.0
+2024-10-19,Centro,Marta Ruiz,Escritorio,Mobiliario,7,450,0.15
+2024-10-20,Norte,Pedro Diaz,Laptop Pro,Tecnologia,7,1200,0.0
+2024-10-20,Centro,Marta Ruiz,Escritorio,Mobiliario,8,450,0.15
+2024-10-20,Oeste,Elena Mora,Monitor 27,Tecnologia,3,320,0.0
+2024-10-20,Norte,Marta Ruiz,Monitor 27,Tecnologia,8,320,0.05
+2024-10-20,Centro,Javier Sanz,Tablet Air,Tecnologia,7,640,0.0
+2024-10-20,Sur,Pedro Diaz,Monitor 27,Tecnologia,1,320,0.15
+2024-10-20,Centro,Pedro Diaz,Auriculares,Accesorios,4,130,0.15
+2024-10-20,Sur,Carlos Vega,Escritorio,Mobiliario,12,450,0.15
+2024-10-21,Centro,Elena Mora,Raton Ergo,Accesorios,2,45,0.0
+2024-10-21,Sur,Pedro Diaz,Auriculares,Accesorios,9,130,0.0
+2024-10-21,Oeste,Carlos Vega,Silla Ergo,Mobiliario,14,280,0.1
+2024-10-21,Norte,Luis Gomez,Silla Ergo,Mobiliario,7,280,0.15
+2024-10-21,Centro,Marta Ruiz,Auriculares,Accesorios,6,130,0.05
+2024-10-22,Norte,Carlos Vega,Teclado Mec,Accesorios,11,95,0.15
+2024-10-22,Centro,Marta Ruiz,Teclado Mec,Accesorios,9,95,0.05
+2024-10-22,Sur,Sofia Leon,Tablet Air,Tecnologia,6,640,0.0
+2024-10-22,Norte,Elena Mora,Laptop Pro,Tecnologia,3,1200,0.0
+2024-10-22,Oeste,Javier Sanz,Laptop Pro,Tecnologia,13,1200,0.0
+2024-10-24,Norte,Pedro Diaz,Laptop Pro,Tecnologia,10,1200,0.0
+2024-10-24,Centro,Pedro Diaz,Silla Ergo,Mobiliario,1,280,0.1
+2024-10-25,Oeste,Javier Sanz,Raton Ergo,Accesorios,2,45,0.1
+2024-10-26,Norte,Ana Torres,Teclado Mec,Accesorios,1,95,0.05
+2024-10-27,Sur,Elena Mora,Monitor 27,Tecnologia,7,320,0.0
+2024-10-27,Este,Javier Sanz,Teclado Mec,Accesorios,2,95,0.15
+2024-10-27,Sur,Pedro Diaz,Silla Ergo,Mobiliario,2,280,0.15
+2024-10-27,Centro,Sofia Leon,Tablet Air,Tecnologia,5,640,0.1
+2024-10-28,Norte,Marta Ruiz,Raton Ergo,Accesorios,10,45,0.0
+2024-10-28,Norte,Luis Gomez,Silla Ergo,Mobiliario,10,280,0.15
+2024-10-29,Este,Pedro Diaz,Laptop Pro,Tecnologia,5,1200,0.0
+2024-10-29,Sur,,Silla Ergo,Mobiliario,1,280,
+2024-10-29,Centro,Marta Ruiz,Teclado Mec,Accesorios,4,95,0.15
+2024-10-29,Este,Javier Sanz,Escritorio,Mobiliario,11,450,0.0
+2024-10-29,Norte,Ana Torres,Escritorio,Mobiliario,2,450,0.0
+2024-10-29,Norte,Marta Ruiz,Laptop Pro,Tecnologia,7,1200,0.1
+2024-10-30,Este,Carlos Vega,Laptop Pro,Tecnologia,2,1200,0.05
+2024-10-30,Norte,Javier Sanz,Laptop Pro,Tecnologia,3,1200,0.0
+2024-10-30,Oeste,Marta Ruiz,Escritorio,Mobiliario,13,450,0.1
+2024-10-31,Norte,Ana Torres,Laptop Pro,Tecnologia,10,1200,0.0
+2024-10-31,Sur,Luis Gomez,Teclado Mec,Accesorios,3,95,0.0
+2024-10-31,Norte,Luis Gomez,Teclado Mec,Accesorios,3,95,0.1
+2024-10-31,Centro,Sofia Leon,Monitor 27,Tecnologia,13,320,0.0
+2024-10-31,Centro,Luis Gomez,Raton Ergo,Accesorios,11,45,0.0
+2024-11-01,Este,Luis Gomez,Laptop Pro,Tecnologia,5,1200,0.05
+2024-11-01,Norte,Marta Ruiz,Tablet Air,Tecnologia,5,640,0.0
+2024-11-01,Norte,Ana Torres,Laptop Pro,Tecnologia,3,1200,0.1
+2024-11-02,Centro,Ana Torres,Laptop Pro,Tecnologia,5,1200,0.1
+2024-11-02,Norte,Pedro Diaz,Laptop Pro,Tecnologia,12,1200,0.1
+2024-11-02,Norte,Javier Sanz,Auriculares,Accesorios,4,130,0.05
+2024-11-02,Este,Pedro Diaz,Escritorio,Mobiliario,4,450,0.0
+2024-11-02,Norte,Ana Torres,Raton Ergo,Accesorios,4,45,0.15
+2024-11-03,Centro,Luis Gomez,Escritorio,Mobiliario,5,450,0.05
+2024-11-03,Oeste,Ana Torres,Monitor 27,Tecnologia,5,320,0.0
+2024-11-03,Norte,Carlos Vega,Auriculares,Accesorios,13,130,0.0
+2024-11-03,Centro,Marta Ruiz,Tablet Air,Tecnologia,2,640,0.05
+2024-11-03,Norte,Pedro Diaz,Silla Ergo,Mobiliario,11,280,0.0
+2024-11-03,Centro,Luis Gomez,Monitor 27,Tecnologia,2,320,0.0
+2024-11-04,Norte,Pedro Diaz,Laptop Pro,Tecnologia,13,1200,0.15
+2024-11-04,Norte,Ana Torres,Monitor 27,Tecnologia,10,320,0.1
+2024-11-04,Norte,Javier Sanz,Monitor 27,Tecnologia,6,320,0.0
+2024-11-04,Centro,Javier Sanz,Auriculares,Accesorios,7,130,0.15
+2024-11-04,Norte,Luis Gomez,Laptop Pro,Tecnologia,3,1200,0.0
+2024-11-05,Oeste,Marta Ruiz,Escritorio,Mobiliario,14,450,0.0
+2024-11-05,Norte,Pedro Diaz,Auriculares,Accesorios,3,130,0.05
+2024-11-05,Centro,Pedro Diaz,Silla Ergo,Mobiliario,13,280,0.1
+2024-11-05,Centro,Javier Sanz,Raton Ergo,Accesorios,9,45,0.05
+2024-11-05,Oeste,Marta Ruiz,Escritorio,Mobiliario,2,450,0.1
+2024-11-05,Centro,Javier Sanz,Monitor 27,Tecnologia,4,320,0.1
+2024-11-06,Norte,Ana Torres,Monitor 27,Tecnologia,13,320,0.05
+2024-11-06,Norte,Ana Torres,Auriculares,Accesorios,9,130,0.1
+2024-11-06,Oeste,Pedro Diaz,Monitor 27,Tecnologia,9,320,0.0
+2024-11-07,Oeste,,Raton Ergo,Accesorios,9,45,0.0
+2024-11-07,Sur,Sofia Leon,Silla Ergo,Mobiliario,3,280,0.1
+2024-11-07,Sur,Javier Sanz,Raton Ergo,Accesorios,4,45,0.15
+2024-11-07,Oeste,Luis Gomez,Escritorio,Mobiliario,11,450,0.05
+2024-11-07,Norte,Marta Ruiz,Auriculares,Accesorios,4,130,0.0
+2024-11-07,Este,Ana Torres,Teclado Mec,Accesorios,2,95,0.0
+2024-11-07,Sur,Marta Ruiz,Silla Ergo,Mobiliario,5,280,0.1
+2024-11-08,Sur,Elena Mora,Tablet Air,Tecnologia,14,640,0.15
+2024-11-08,Sur,Ana Torres,Escritorio,Mobiliario,13,450,0.0
+2024-11-08,Norte,Sofia Leon,Auriculares,Accesorios,1,130,0.1
+2024-11-08,Centro,Javier Sanz,Escritorio,Mobiliario,12,450,0.0
+2024-11-08,Norte,Ana Torres,Teclado Mec,Accesorios,2,95,0.0
+2024-11-09,Sur,Sofia Leon,Teclado Mec,Accesorios,1,95,0.1
+2024-11-09,Norte,Ana Torres,Tablet Air,Tecnologia,8,640,0.15
+2024-11-09,Sur,Sofia Leon,Escritorio,Mobiliario,11,450,0.0
+2024-11-09,Centro,Luis Gomez,Auriculares,Accesorios,9,130,0.1
+2024-11-10,Este,Luis Gomez,Auriculares,Accesorios,4,130,0.05
+2024-11-10,Centro,Sofia Leon,Monitor 27,Tecnologia,9,320,0.15
+2024-11-11,Oeste,Javier Sanz,Teclado Mec,Accesorios,4,95,0.0
+2024-11-12,Oeste,Luis Gomez,Teclado Mec,Accesorios,14,95,0.0
+2024-11-12,Este,Elena Mora,Raton Ergo,Accesorios,7,45,0.0
+2024-11-13,Centro,Ana Torres,Tablet Air,Tecnologia,8,640,0.05
+2024-11-13,Este,Ana Torres,Raton Ergo,Accesorios,8,45,0.0
+2024-11-13,Este,Elena Mora,Auriculares,Accesorios,9,130,0.05
+2024-11-15,Sur,Javier Sanz,Tablet Air,Tecnologia,4,640,0.0
+2024-11-16,Norte,Marta Ruiz,Escritorio,Mobiliario,5,450,0.0
+2024-11-16,Sur,Marta Ruiz,Raton Ergo,Accesorios,2,45,0.1
+2024-11-17,Sur,Javier Sanz,Silla Ergo,Mobiliario,13,280,0.15
+2024-11-17,Oeste,Sofia Leon,Monitor 27,Tecnologia,12,320,0.0
+2024-11-18,Norte,Marta Ruiz,Teclado Mec,Accesorios,3,95,0.15
+2024-11-18,Norte,Ana Torres,Silla Ergo,Mobiliario,4,280,0.1
+2024-11-19,Sur,Elena Mora,Raton Ergo,Accesorios,8,45,0.1
+2024-11-20,Norte,Javier Sanz,Tablet Air,Tecnologia,4,640,0.0
+2024-11-20,Este,Elena Mora,Tablet Air,Tecnologia,8,640,0.05
+2024-11-20,Sur,Ana Torres,Monitor 27,Tecnologia,3,320,0.05
+2024-11-21,Norte,Carlos Vega,Teclado Mec,Accesorios,1,95,0.0
+2024-11-22,Sur,Pedro Diaz,Auriculares,Accesorios,4,130,0.0
+2024-11-22,Sur,Elena Mora,Laptop Pro,Tecnologia,14,1200,0.0
+2024-11-22,Centro,Sofia Leon,Laptop Pro,Tecnologia,8,1200,0.15
+2024-11-22,Centro,Carlos Vega,Laptop Pro,Tecnologia,1,1200,0.1
+2024-11-23,Norte,Pedro Diaz,Raton Ergo,Accesorios,2,45,0.0
+2024-11-23,Centro,Ana Torres,Raton Ergo,Accesorios,9,45,0.05
+2024-11-23,Norte,Pedro Diaz,Auriculares,Accesorios,4,130,0.15
+2024-11-24,Oeste,Pedro Diaz,Raton Ergo,Accesorios,5,45,0.0
+2024-11-24,Sur,Sofia Leon,Tablet Air,Tecnologia,7,640,
+2024-11-24,Norte,Pedro Diaz,Laptop Pro,Tecnologia,1,1200,0.0
+2024-11-25,Este,Javier Sanz,Tablet Air,Tecnologia,12,640,0.0
+2024-11-26,Sur,Elena Mora,Tablet Air,Tecnologia,1,640,0.15
+2024-11-26,Sur,Javier Sanz,Escritorio,Mobiliario,14,450,0.1
+2024-11-26,Sur,Marta Ruiz,Monitor 27,Tecnologia,14,320,0.05
+2024-11-27,Este,Sofia Leon,Raton Ergo,Accesorios,6,45,0.1
+2024-11-27,Sur,Sofia Leon,Tablet Air,Tecnologia,8,640,0.0
+2024-11-27,Sur,Luis Gomez,Escritorio,Mobiliario,3,450,0.0
+2024-11-28,Este,Elena Mora,Escritorio,Mobiliario,12,450,0.05
+2024-11-28,Sur,Sofia Leon,Laptop Pro,Tecnologia,14,1200,0.15
+2024-11-28,Norte,Carlos Vega,Escritorio,Mobiliario,7,450,0.15
+2024-11-29,Oeste,Marta Ruiz,Tablet Air,Tecnologia,12,640,0.1
+2024-11-30,Centro,Sofia Leon,Monitor 27,Tecnologia,12,320,0.0
+2024-11-30,Sur,Javier Sanz,Tablet Air,Tecnologia,8,640,0.0
+2024-12-01,Centro,Pedro Diaz,Escritorio,Mobiliario,14,450,0.0
+2024-12-01,Norte,Javier Sanz,Auriculares,Accesorios,10,130,0.0
+2024-12-01,Este,Ana Torres,Laptop Pro,Tecnologia,13,1200,0.15
+2024-12-01,Sur,Marta Ruiz,Silla Ergo,Mobiliario,1,280,0.0
+2024-12-02,Norte,Elena Mora,Silla Ergo,Mobiliario,14,280,0.0
+2024-12-02,Sur,Javier Sanz,Raton Ergo,Accesorios,12,45,0.0
+2024-12-02,Este,Marta Ruiz,Monitor 27,Tecnologia,5,320,0.05
+2024-12-02,Centro,Marta Ruiz,Raton Ergo,Accesorios,8,45,0.0
+2024-12-02,Centro,Ana Torres,Silla Ergo,Mobiliario,7,280,0.05
+2024-12-02,Sur,Sofia Leon,Laptop Pro,Tecnologia,10,1200,0.0
+2024-12-03,Oeste,Pedro Diaz,Raton Ergo,Accesorios,5,45,0.15
+2024-12-03,Centro,Ana Torres,Silla Ergo,Mobiliario,1,280,0.0
+2024-12-03,Centro,Elena Mora,Silla Ergo,Mobiliario,9,280,0.0
+2024-12-03,Sur,Pedro Diaz,Monitor 27,Tecnologia,1,320,0.05
+2024-12-03,Sur,Sofia Leon,Laptop Pro,Tecnologia,7,1200,0.0
+2024-12-04,Este,Marta Ruiz,Escritorio,Mobiliario,1,450,0.0
+2024-12-04,Este,Sofia Leon,Tablet Air,Tecnologia,9,640,0.05
+2024-12-04,Centro,Marta Ruiz,Monitor 27,Tecnologia,1,320,0.1
+2024-12-04,Centro,Sofia Leon,Escritorio,Mobiliario,13,450,0.15
+2024-12-04,Norte,Pedro Diaz,Raton Ergo,Accesorios,12,45,0.05
+2024-12-05,Sur,Sofia Leon,Auriculares,Accesorios,4,130,0.1
+2024-12-05,Centro,Marta Ruiz,Monitor 27,Tecnologia,8,320,0.05
+2024-12-05,Oeste,Luis Gomez,Teclado Mec,Accesorios,9,95,0.15
+2024-12-05,Este,Sofia Leon,Auriculares,Accesorios,12,130,0.0
+2024-12-05,Oeste,Elena Mora,Monitor 27,Tecnologia,5,320,0.0
+2024-12-05,Centro,Pedro Diaz,Tablet Air,Tecnologia,13,640,0.0
+2024-12-06,Norte,Pedro Diaz,Monitor 27,Tecnologia,14,320,0.0
+2024-12-06,Centro,Pedro Diaz,Escritorio,Mobiliario,5,450,0.0
+2024-12-06,Centro,Pedro Diaz,Monitor 27,Tecnologia,12,320,0.0
+2024-12-07,Sur,Ana Torres,Silla Ergo,Mobiliario,3,280,0.0
+2024-12-07,Norte,Carlos Vega,Auriculares,Accesorios,13,130,0.15
+2024-12-07,Este,Luis Gomez,Raton Ergo,Accesorios,8,45,0.0
+2024-12-08,Norte,Javier Sanz,Laptop Pro,Tecnologia,13,1200,0.0
+2024-12-08,Este,Ana Torres,Auriculares,Accesorios,3,130,0.0
+2024-12-08,Oeste,Marta Ruiz,Auriculares,Accesorios,14,130,0.1
+2024-12-08,Sur,Pedro Diaz,Escritorio,Mobiliario,1,450,0.0
+2024-12-08,Centro,Elena Mora,Silla Ergo,Mobiliario,8,280,0.0
+2024-12-09,Sur,Ana Torres,Tablet Air,Tecnologia,6,640,0.1
+2024-12-09,Sur,Ana Torres,Auriculares,Accesorios,7,130,0.0
+2024-12-09,Sur,Pedro Diaz,Teclado Mec,Accesorios,14,95,0.15
+2024-12-10,Norte,Carlos Vega,Raton Ergo,Accesorios,13,45,0.05
+2024-12-10,Centro,Sofia Leon,Silla Ergo,Mobiliario,5,280,0.1
+2024-12-10,Oeste,Elena Mora,Auriculares,Accesorios,4,130,0.1
+2024-12-12,Sur,Ana Torres,Monitor 27,Tecnologia,12,320,0.0
+2024-12-12,Este,Carlos Vega,Escritorio,Mobiliario,9,450,0.1
+2024-12-12,Sur,Sofia Leon,Tablet Air,Tecnologia,6,640,0.0
+2024-12-12,Norte,Pedro Diaz,Teclado Mec,Accesorios,1,95,0.0
+2024-12-13,Centro,Pedro Diaz,Auriculares,Accesorios,2,130,0.05
+2024-12-13,Sur,Marta Ruiz,Auriculares,Accesorios,12,130,0.0
+2024-12-13,Este,Javier Sanz,Teclado Mec,Accesorios,2,95,0.0
+2024-12-13,Norte,Luis Gomez,Silla Ergo,Mobiliario,5,280,0.0
+2024-12-14,Norte,Sofia Leon,Tablet Air,Tecnologia,9,640,0.05
+2024-12-14,Norte,Sofia Leon,Silla Ergo,Mobiliario,14,280,0.0
+2024-12-14,Oeste,Elena Mora,Silla Ergo,Mobiliario,3,280,0.0
+2024-12-15,Este,Luis Gomez,Tablet Air,Tecnologia,10,640,0.0
+2024-12-15,Norte,Pedro Diaz,Laptop Pro,Tecnologia,1,1200,0.0
+2024-12-16,Norte,Luis Gomez,Escritorio,Mobiliario,2,450,0.05
+2024-12-16,Este,Carlos Vega,Auriculares,Accesorios,11,130,0.0
+2024-12-16,Sur,Pedro Diaz,Auriculares,Accesorios,12,130,0.0
+2024-12-16,Centro,Pedro Diaz,Auriculares,Accesorios,12,130,0.0
+2024-12-17,Norte,Javier Sanz,Escritorio,Mobiliario,5,450,0.05
+2024-12-17,Oeste,Javier Sanz,Raton Ergo,Accesorios,8,45,0.0
+2024-12-17,Oeste,Marta Ruiz,Raton Ergo,Accesorios,12,45,0.0
+2024-12-17,Centro,Marta Ruiz,Monitor 27,Tecnologia,12,320,0.0
+2024-12-17,Este,Sofia Leon,Silla Ergo,Mobiliario,11,280,0.05
+2024-12-17,Sur,Luis Gomez,Teclado Mec,Accesorios,11,95,0.15
+2024-12-18,Este,Ana Torres,Raton Ergo,Accesorios,3,45,0.0
+2024-12-18,Este,Javier Sanz,Silla Ergo,Mobiliario,6,280,0.05
+2024-12-18,Este,Luis Gomez,Monitor 27,Tecnologia,8,320,0.05
+2024-12-18,Oeste,Sofia Leon,Raton Ergo,Accesorios,8,45,0.0
+2024-12-18,Oeste,Pedro Diaz,Laptop Pro,Tecnologia,10,1200,0.0
+2024-12-19,Oeste,Marta Ruiz,Tablet Air,Tecnologia,8,640,0.0
+2024-12-19,Sur,Luis Gomez,Silla Ergo,Mobiliario,2,280,0.0
+2024-12-20,Norte,Javier Sanz,Escritorio,Mobiliario,1,450,0.15
+2024-12-20,Centro,Marta Ruiz,Silla Ergo,Mobiliario,2,280,0.1
+2024-12-20,Norte,Luis Gomez,Auriculares,Accesorios,11,130,0.1
+2024-12-20,Centro,Marta Ruiz,Auriculares,Accesorios,3,130,0.05
+2024-12-20,Oeste,Sofia Leon,Auriculares,Accesorios,11,130,0.05
+2024-12-20,Este,Ana Torres,Monitor 27,Tecnologia,11,320,0.0
+2024-12-21,Norte,Pedro Diaz,Escritorio,Mobiliario,13,450,0.0
+2024-12-21,Centro,Elena Mora,Silla Ergo,Mobiliario,5,280,0.15
+2024-12-21,Oeste,Sofia Leon,Auriculares,Accesorios,7,130,0.0
+2024-12-22,Norte,Marta Ruiz,Teclado Mec,Accesorios,12,95,0.05
+2024-12-22,Norte,,Laptop Pro,Tecnologia,14,1200,0.0
+2024-12-22,Norte,Sofia Leon,Raton Ergo,Accesorios,7,45,0.15
+2024-12-23,Centro,Carlos Vega,Monitor 27,Tecnologia,11,320,0.0
+2024-12-24,Oeste,Ana Torres,Auriculares,Accesorios,11,130,0.0
+2024-12-24,Este,Marta Ruiz,Monitor 27,Tecnologia,10,320,0.0
+2024-12-24,Este,Elena Mora,Tablet Air,Tecnologia,5,640,0.0
+2024-12-24,Este,Javier Sanz,Escritorio,Mobiliario,14,450,0.0
+2024-12-25,Sur,Ana Torres,Tablet Air,Tecnologia,14,640,0.0
+2024-12-25,Norte,Luis Gomez,Escritorio,Mobiliario,5,450,0.15
+2024-12-26,Centro,Luis Gomez,Auriculares,Accesorios,6,130,0.0
+2024-12-27,Oeste,Luis Gomez,Escritorio,Mobiliario,10,450,
+2024-12-28,Centro,Marta Ruiz,Monitor 27,Tecnologia,4,320,0.0
+2024-12-28,Norte,Carlos Vega,Silla Ergo,Mobiliario,8,280,0.0
+2024-12-28,Este,Ana Torres,Raton Ergo,Accesorios,8,45,0.05
+2024-12-28,Este,Luis Gomez,Tablet Air,Tecnologia,13,640,0.0
+2024-12-29,Oeste,Javier Sanz,Auriculares,Accesorios,6,130,0.0
+2024-12-29,Centro,Luis Gomez,Laptop Pro,Tecnologia,1,1200,0.1
+2024-12-30,Sur,Luis Gomez,Silla Ergo,Mobiliario,3,280,0.0
+2024-12-30,Sur,Javier Sanz,Teclado Mec,Accesorios,8,95,0.1
+2024-12-30,Centro,Ana Torres,Raton Ergo,Accesorios,7,45,0.0
+2024-12-30,Norte,Ana Torres,Tablet Air,Tecnologia,4,640,0.0
+2024-12-30,Este,Luis Gomez,Raton Ergo,Accesorios,4,45,0.0
+2024-12-30,Este,Marta Ruiz,Laptop Pro,Tecnologia,13,1200,0.05
+2024-12-31,Oeste,Ana Torres,Monitor 27,Tecnologia,2,320,0.05
+2024-12-31,Norte,Ana Torres,Monitor 27,Tecnologia,6,320,0.0
+2024-12-31,Norte,Marta Ruiz,Raton Ergo,Accesorios,8,45,0.0

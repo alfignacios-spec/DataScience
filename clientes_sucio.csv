@@ -1,0 +1,13 @@
+email,nombre,ciudad,fecha_nac,gasto_total,activo,telefono
+  ana.lopez@mail.com ,Ana Lopez,MADRID,1985/04/12,"1.250,50",Si,+34 600111222
+luis.perez@mail.com,  luis perez,barcelona,1990-11-03,"890,00",si,600 222 333
+MARTA.R@MAIL.COM,Marta Ruiz,Valencia,12/07/1978,"2.100,75",SI,
+pedro.diaz@mail.com,Pedro Diaz,madrid,1995-01-30,,No,600-444-555
+luis.perez@mail.com,  luis perez,barcelona,1990-11-03,"890,00",si,600 222 333
+sofia.leon@mail.com,Sofia Leon ,SEVILLA,1988-06-21,"3.400,00",no,+34600666777
+carlos.vega@mail.com,,Bilbao,1992-09-14,"1.780,20",Si,
+elena.mora@mail.com,Elena Mora,  madrid ,1983/12/05,n/a,NO,600888999
+javier.sanz@mail.com,Javier Sanz,Barcelona,1979-03-18,"5.600,00",si,600 999 000
+lucia.ortiz@mail.com,Lucia Ortiz,valencia,2001-08-09,"430,10",No,600123456
+MARTA.R@MAIL.COM,Marta Ruiz,Valencia,12/07/1978,"2.100,75",SI,
+miguel.cano@mail.com,Miguel Cano,Sevilla,1997-05-27,,si,600654321
