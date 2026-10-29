@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "date": "2026-10-27T04:22:42.948170",
+    "parameters": {
+        "n_estimators": 100,
+        "max_depth": 15,
+        "random_state": 42
+    },
+    "metrics": {
+        "r2_score": 0.9868075762759164,
+        "rmse": 0.15613533877614516
+    }
+}
